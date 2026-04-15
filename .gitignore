@@ -1,0 +1,32 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging/build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Test/coverage cache artifacts
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# IDE/editor + OS noise
+.idea/
+.DS_Store
+
+# Local confidential program mapping/config (not for commit)
+preprocessor/program_group_config.json
+preprocessor/confidential_program_mapping.csv
+preprocessor/confidential_program_mapping.txt
