@@ -14,7 +14,7 @@ BASE_DIR = Path(__file__).resolve().parent
 
 
 # Cleans the Canadian skills csv and keep descriptor rows only
-def process_csv(input_path: Path, output_path: Path) -> None:
+def process_csv(input_path, output_path):
     # Source files uses semicolon delimiter and has one placeholder header row
     with input_path.open("r", encoding="utf-8-sig", newline="") as infile:
         reader = csv.reader(infile, delimiter=";")
@@ -59,7 +59,7 @@ def process_csv(input_path: Path, output_path: Path) -> None:
         writer.writerows(output_rows)
 
 
-def main() -> None:
+def main():
     input_path = BASE_DIR / "rawData" / "candianSkills.csv"
     output_path = BASE_DIR / "cleanedData" / "skillsCa.csv"
     process_csv(input_path, output_path)
