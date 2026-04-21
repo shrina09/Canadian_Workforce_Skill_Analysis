@@ -1,3 +1,4 @@
+# Processes the cleaned skills and alternative title CSVs to create a runtime CSV for inference
 import csv
 from pathlib import Path
 
