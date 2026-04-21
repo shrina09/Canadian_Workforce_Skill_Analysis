@@ -1,0 +1,370 @@
+skills,code
+Information Ordering,A.01.a.01
+Categorization Flexibility,A.01.a.02
+Deductive Reasoning,A.01.a.03
+Inductive Reasoning,A.01.a.04
+Fluency of Ideas,A.01.a.05
+Problem Identification,A.01.a.06
+Numerical Ability,A.01.b.01
+Mathematical Reasoning,A.01.b.02
+Memorizing,A.01.c.01
+Multitasking,A.01.c.02
+Pattern Identification,A.01.c.03
+Pattern Organization Speed,A.01.c.04
+Perceptual Speed,A.01.c.05
+Spatial Orientation,A.01.d.01
+Spatial Visualization,A.01.d.02
+Verbal Ability,A.01.e.01
+Written Comprehension,A.01.e.02
+Written Expression,A.01.e.03
+Selective Attention,A.01.f.01
+Form Perception,A.01.f.02
+General Learning Ability,A.01.f.03
+Trunk Strength,A.02.f.01
+Static Strength,A.02.a.02
+Dynamic Strength,A.02.a.03
+Explosive Strength,A.02.a.04
+Multi-Limb Coordination,A.02.b.01
+Gross Body Coordination,A.02.b.02
+Gross Body Equilibrium,A.02.b.03
+Body Flexibility,A.02.b.04
+Dynamic Flexibility,A.02.b.05
+Stamina,A.02.c.01
+Arm-Hand Steadiness,A.03.a.01
+Finger Dexterity,A.03.a.02
+Manual Dexterity,A.03.a.03
+Hand-Eye Coordination,A.03.b.01
+Rate Control,A.03.b.02
+Control of Settings,A.03.b.03
+Multi-Signal Response,A.03.b.04
+Reaction Time,A.03.c.01
+Speed of Limb Movement,A.03.c.02
+Finger-Hand-Wrist Motion,A.03.c.03
+Auditory Attention,A.04.a.01
+Hearing Sensitivity,A.04.a.02
+Speech Clarity,A.04.a.03
+Speech Recognition,A.04.a.04
+Sound Localization,A.04.a.05
+Far Vision,A.04.b.01
+Near Vision,A.04.b.02
+Peripheral Vision,A.04.b.03
+Depth Perception,A.04.b.04
+Glare Tolerance,A.04.b.05
+Night Vision,A.04.b.06
+Colour Perception,A.04.c.01
+Smell,A.04.c.02
+Taste,A.04.c.03
+Touch,A.04.c.04
+Leadership,B.01.a.01
+Charisma,B.01.a.02
+Concern for Others,B.01.b.01
+Collaboration,B.01.b.02
+Service Orientation,B.01.b.03
+Trust in Others,B.01.b.04
+Social Orientation,B.01.b.05
+Adaptability,B.02.a.01
+Self-Control,B.02.a.02
+Stress Tolerance,B.02.a.03
+Tolerance of Ambiguity,B.02.a.04
+Resilience,B.02.a.05
+Self-Awareness,B.02.b.01
+Self-Confidence,B.02.b.02
+Active Learning,B.02.c.01
+Continuous Learning,B.02.c.02
+Achievement,B.03.a.01
+Initiative,B.03.a.02
+Motivation,B.03.a.03
+Perseverance,B.03.a.04
+Risk-Taking,B.03.a.05
+Competitiveness,B.03.a.06
+Independence,B.03.a.07
+Reliability,B.04.a.01
+Integrity,B.04.a.02
+Being Responsible,B.04.a.03
+Having Judgement,B.05.a.01
+Analytical Thinking,B.05.a.02
+Attention to Detail,B.05.a.03
+Creativity,B.05.b.01
+Innovativeness,B.05.b.02
+Entrepreneurial Spirit,B.05.b.03
+Realistic,C.01.a.01
+Investigative,C.01.a.02
+Artistic,C.01.a.03
+Social,C.01.a.04
+Enterprising,C.01.a.05
+Conventional,C.01.a.06
+Oral Communication: Active Listening,F.01.a.01
+Oral Communication: Oral Comprehension,F.01.a.02
+Oral Communication: Oral Expression,F.01.a.03
+Reading Comprehension,F.01.b.01
+Writing,F.01.b.02
+Numeracy,F.01.c.01
+Digital Literacy,F.01.c.02
+Critical Thinking,F.02.a.01
+Learning and Teaching Strategies,F.02.a.02
+Decision Making,F.02.a.03
+Evaluation,F.02.b.01
+Requirements Analysis,F.02.b.02
+Systems Analysis,F.02.b.03
+Researching and Investigating,F.02.b.04
+Problem Solving,F.02.b.05
+Equipment and Tool Selection,F.03.a.01
+Preventative Maintenance,F.03.a.02
+Setting Up,F.03.a.03
+Operation and Control,F.03.a.04
+Operation Monitoring of Machinery and Equipment,F.03.a.05
+Troubleshooting,F.03.a.06
+Repairing,F.03.a.07
+Quality Control Testing,F.03.a.08
+Product Design,F.03.a.09
+Digital Systems Production,F.03.a.10
+Management of Financial Resources,F.04.a.01
+Management of Material Resources,F.04.a.02
+Management of Personnel Resources,F.04.a.03
+Operational Planning,F.04.b.01
+Projecting Outcomes,F.04.b.02
+Risk Management,F.04.b.03
+Strategic Planning,F.04.b.04
+Time Management,F.04.b.05
+Monitoring,F.04.c.01
+Change Management,F.04.d.01
+Crisis Management,F.04.d.02
+Coordinating,F.05.a.01
+Instructing,F.05.a.02
+Negotiating,F.05.a.03
+Persuading,F.05.a.04
+Social Perceptiveness,F.05.a.05
+Cross-Cultural Sensitivity,F.05.a.06
+Managing Conversation,F.05.a.07
+Accounting,G.01.a.01
+Business Management,G.01.a.02
+Clerical,G.01.a.03
+Finance,G.01.a.04
+Human Resources and Labour Relations,G.01.a.05
+Sales and Marketing,G.01.a.06
+Client Service,G.01.a.07
+Communications and Media,G.02.a.01
+Teaching,G.03.a.01
+"Training, Mentoring and Coaching",G.03.a.02
+Hospitality,G.04.a.01
+Mental Health,G.04.a.02
+Personal Services,G.04.a.03
+Physical Health,G.04.a.04
+"Recreation, Leisure and Fitness",G.04.a.05
+Veterinarian and Animal Care,G.04.a.06
+Military,G.05.a.01
+Law,G.05.a.02
+Public Affairs and Government Relations,G.05.a.03
+Public Safety and Security,G.05.a.04
+"Manufacturing, Processing and Production",G.06.a.01
+Logistics,G.06.a.02
+Performance Measurement,G.06.a.03
+Technical Design,G.06.a.04
+Agronomy and horticulture,G.07.a.01
+Forestry,G.07.a.02
+Geological Resources,G.07.a.03
+"Livestock, Farm Animals and  Wildlife",G.07.a.04
+Water Resources,G.07.a.05
+Biology,G.08.a.01
+Chemistry,G.08.a.02
+Geoscience,G.08.a.03
+Physics,G.08.a.05
+Arts,G.09.a.01
+Economics,G.09.a.02
+Humanities,G.09.a.03
+"Library, Conservation and Heritage",G.09.a.04
+Theology and Philosophy,G.09.a.05
+Building and Construction,G.10.a.01
+"Computer, Technology and Information Systems",G.10.a.02
+Electrical and Electronics,G.10.a.03
+Mechanics and Machinery,G.10.a.04
+Telecommunications,G.10.a.05
+"Vehicle, Machinery and Equipment Operation",G.10.a.06
+Languages,G.11.a.01
+Mathematics,G.11.a.02
+Consequence of Error,J.01.a.01
+Freedom to Make Decisions,J.01.a.02
+Frequency of Decision Making,J.01.a.03
+Impact of Decisions,J.01.a.04
+Automation,J.01.b.01
+Precision,J.01.b.02
+Structured versus Unstructured Work,J.01.b.03
+Tasks Repetition,J.01.b.04
+Pace Determined by Speed of Equipment,J.01.c.01
+Time Pressure,J.01.c.02
+Type of Work Schedules,J.01.c.03
+Work Week Duration,J.01.c.04
+Competition,J.01.d.01
+Working with Computers,J.01.e.01
+Dangerous Locations,J.02.a.01
+"Fire, Steam, Hot Surfaces",J.02.a.02
+"Flying Particles, Falling Objects",J.02.a.03
+Hazardous Conditions,J.02.a.04
+"Hazardous Equipment, Machinery, Tools",J.02.a.05
+High Places,J.02.a.06
+Radiation,J.02.a.07
+"Cramped Work Space, Awkward Positions",J.02.a.08
+Skin Injury,J.02.a.09
+In an Enclosed Vehicle or Equipment,J.02.b.01
+In an Open Vehicle or Equipment,J.02.b.02
+"Indoors, Environmentally Controlled",J.02.b.03
+"Indoors, Not Environmentally Controlled",J.02.b.04
+"Outside, Exposed to Weather",J.02.b.05
+"Outside, Under Cover",J.02.b.06
+Physical Proximity,J.02.b.07
+Biological Agents,J.02.c.01
+Dangerous Chemical Substances,J.02.c.02
+Vibration,J.02.c.03
+Sound and Noise,J.02.c.04
+Extremely Bright or Inadequate Lighting,J.02.c.05
+Extreme Temperatures,J.02.c.06
+Odours,J.02.c.07
+Specialized Safety Equipment,J.02.d.01
+Standard Safety Equipment,J.02.d.02
+Bending or Twisting the Body,J.03.a.01
+Climbing,J.03.a.02
+Crawling,J.03.a.03
+Crouching,J.03.a.04
+Handling Material Manually,J.03.a.05
+Keeping or Regaining Balance,J.03.a.06
+Kneeling,J.03.a.07
+Making Repetitive Motions,J.03.a.08
+Sitting,J.03.a.09
+Standing,J.03.a.10
+Walking and Running,J.03.a.11
+Reaching,J.03.a.12
+Stooping,J.03.a.13
+Keyboarding,J.03.a.14
+Carrying,J.03.b.01
+Lifting,J.03.b.02
+Pulling,J.03.b.03
+Pushing,J.03.b.04
+Speaking,J.03.c.01
+Visual Acuity,J.03.c.02
+Conflict Situations,J.04.a.01
+Contact with Others,J.04.a.02
+Coordinating or Leading Others,J.04.a.03
+Deal With External Customers,J.04.a.04
+Work with Group or Team,J.04.a.05
+Deal with Physically Aggressive People,J.04.a.06
+Dealing With Unpleasant or Angry People,J.04.a.07
+Electronic Mail,J.04.b.01
+Face-to-Face Discussions,J.04.b.02
+Written Communications,J.04.b.03
+Public Speaking,J.04.b.04
+Telephone,J.04.b.05
+Videoconference,J.04.b.06
+Responsibility for Outcomes and Results of Other Workers,J.04.c.01
+Responsibility for Health and Safety of Others,J.04.c.02
+Getting Information,K.01.a.01
+"Monitoring Processes, Materials or Systems",K.01.a.02
+Analyzing Data or Information,K.01.a.06
+Developing Technical Instructions,K.01.a.07
+Documenting and Recording Information,K.01.a.08
+Performing Administrative Activities,K.01.a.09
+"Identifying Objects, Actions and Events",K.01.b.01
+Estimating Quantifiable Characteristics,K.01.b.02
+"Inspecting Equipment, Structures or Material",K.01.b.03
+Processing Information,K.01.b.04
+Writing or Composing,K.01.b.05
+Handling and Manipulating Objects,K.02.a.01
+"Operating Vehicles, Mechanized Devices or Equipment",K.02.a.02
+Controlling Machines and Processes,K.02.a.04
+Performing Physical Activities,K.02.a.09
+Electronic Maintenance,K.02.b.03
+Mechanical Maintenance,K.02.b.05
+Judging Quality,K.03.a.01
+Evaluating,K.03.a.02
+Calculating,K.03.a.03
+Making Decisions,K.03.b.01
+Thinking Creatively,K.03.b.02
+Setting Objectives and Formulating Strategies,K.03.b.03
+Updating and Applying Knowledge,K.03.b.04
+Examining and Diagnosing,K.03.b.05
+Managing Resources,K.03.b.06
+Planning and Organizing,K.03.b.07
+Scheduling Work and Activities,K.03.b.08
+Communicating with Coworkers,K.04.a.01
+Coordinating the Work and Activities of Others,K.04.a.02
+Interpreting the Meaning of Information for Others,K.04.a.04
+Protecting and Enforcing Rules,K.04.a.05
+Communicating with Persons Outside Organization,K.04.a.06
+Establishing and Maintaining Interpersonal Relationships,K.04.a.07
+Selling or Influencing Others,K.04.a.08
+Performing for or Working Directly with the Public,K.04.a.09
+Assisting and Caring for Others,K.04.a.12
+Coaching and Developing Others,K.04.b.01
+Providing Consultation and Advice,K.04.b.02
+Resolving Conflicts and Negotiating with Others,K.04.b.03
+Supervising Subordinates,K.04.b.04
+Team Building,K.04.b.05
+Training and Teaching,K.04.b.06
+Staffing,K.04.c.01
+Problem Sensitivity,A.01.a.06
+Significant Use of Memory,A.01.c.01
+Time Sharing,A.01.c.02
+Speed of Closure,A.01.c.04
+Spatial Perception,A.01.d.02
+Visualization,A.01.d.02
+Extent Flexibility,A.02.b.04
+Steady motion,A.03.a.01
+Stabilize motions,A.03.a.01
+Arm-hand stability,A.03.a.01
+Wrist-Finger Speed,A.03.c.03
+Wrist-finger gesture,A.03.c.03
+Sound perception,A.04.a.01
+Effective listening,A.04.a.01
+Sound attention,A.04.a.01
+Sound sensitivity,A.04.a.02
+Distance vision,A.04.b.01
+Visual Colour Discrimination,A.04.c.01
+Tactile perception,A.04.c.04
+Soft Skills,A.04.c.04
+Social skills,A.04.c.04
+Behavioural skills,A.04.c.04
+Personal qualities,A.04.c.04
+Personal traits,A.04.c.04
+Personal characteristics,A.04.c.04
+Individual characteristics,A.04.c.04
+Collaborative,B.01.b.02
+Cooperation,B.01.b.02
+Intellectual curiosity,B.02.c.01
+Lifelong learning,B.02.c.01
+Showing initiative,B.03.a.03
+Dependability,B.04.a.01
+Accountable,B.04.a.03
+Sense of Responsibility,B.04.a.03
+Innovation,B.05.a.02
+RIASEC codes,B.05.b.03
+Core skills,C.01.a.06
+Basic skills,C.01.a.06
+Fundamental skills,C.01.a.06
+Basis skills,C.01.a.06
+Literacy,F.01.b.01
+Mathematic,F.01.c.01
+Digital proficiency,F.01.c.02
+Digital skills,F.01.c.02
+Digital competencies,F.01.c.02
+Digitally fluent,F.01.c.02
+Digital capabilities,F.01.c.02
+Digital citizenship,F.01.c.02
+Digital capacity,F.01.c.02
+Digital acumen,F.01.c.02
+Metacognitives,F.01.c.02
+Meta-cognitive,F.01.c.02
+Metacognitive,F.01.c.02
+Critical mindset,F.02.a.01
+Learning Strategies,F.02.a.02
+Operations Analysis,F.02.b.02
+Problem solving process,F.02.b.05
+Problem-solving,F.02.b.05
+Hard skills,F.02.b.05
+Equipment Selection,F.03.a.01
+Equipment Maintenance,F.03.a.02
+Operation Monitoring,F.03.a.05
+Quality Control Analysis,F.03.a.08
+Technology Design,F.03.a.09
+Cultural intelligence,F.05.a.06
+Worldview-inclusive attitude,F.05.a.06
+Facilitator,F.05.a.07
+Letters and Memos,J.04.b.03
