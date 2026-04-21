@@ -1,0 +1,518 @@
+﻿Code,Structure Type,English Name,French Name,Language ID,Alternative Title text
+A,Category,Abilities,Habiletés,18,Facultés
+,,,,18,Aptitudes
+,,,,13,Faculty
+,,,,13,Aptitudes
+,,,,13,Faculties
+A01,Sub-Category,Cognitive Abilities,Habiletés cognitives,,
+A01a,Similarity Group,Idea Generation and Reasoning Abilities,Habiletés à générer des idées et à raisonner,,
+A01a01,Descriptor,Information Ordering,Ordonner de l’information,,
+A01a02,Descriptor,Categorization Flexibility,Souplesse dans la catégorisation,,
+A01a03,Descriptor,Deductive Reasoning,Raisonnement déductif,,
+A01a04,Descriptor,Inductive Reasoning,Raisonnement inductif,,
+A01a05,Descriptor,Fluency of Ideas,Facilité à concevoir des idées,,
+A01a06,Descriptor,Problem Identification,Détection de problèmes,13,Problem Sensitivity
+A01b,Similarity Group,Quantitative Abilities,Habiletés quantitatives,,
+A01b01,Descriptor,Numerical Ability,Habileté numériques,,
+A01b02,Descriptor,Mathematical Reasoning,Raisonnement mathématique,,
+A01c,Similarity Group,Memory Abilities,Habiletés de mémoire,,
+A01c01,Descriptor,Memorizing,Mémorisation,13,Significant Use of Memory
+,,,,18,Utilisation particulière de la mémoire
+A01c02,Descriptor,Multitasking,Tâches multiples,13,Time Sharing
+A01c03,Descriptor,Pattern Identification,Identification de motifs,18,Identification de structures
+A01c04,Descriptor,Pattern Organization Speed,Vitesse d’organisation de motifs,13,Speed of Closure
+,,,,18,Rapidité d’organisation de structures
+A01c05,Descriptor,Perceptual Speed,Vitesse de perception,,
+A01d,Similarity Group,Spacial Abilities,Habiletés spatiales,,
+A01d01,Descriptor,Spatial Orientation,Orientation spatiale,,
+A01d02,Descriptor,Spatial Visualization,Visualisation spatiale,13,Spatial Perception
+,,,,18,Perception spatiale
+,,,,13,Visualization
+A01e,Similarity Group,Communication Abilities,Habiletés de communication,,
+A01e01,Descriptor,Verbal Ability,Habileté verbale,,
+A01e02,Descriptor,Written Comprehension,Compréhension écrite,,
+A01e03,Descriptor,Written Expression,Expression écrite,,
+A01f,Similarity Group,Other Cognitive Abilities,Autres habiletés cognitives,,
+A01f01,Descriptor,Selective Attention,Attention sélective,,
+A01f02,Descriptor,Form Perception,Perception des formes,,
+A01f03,Descriptor,General Learning Ability,Habileté générale à apprendre,,
+A02,Sub-Category,Physical Abilities,Habiletés physiques,,
+A02a,Similarity Group,Physical Strength Abilities,Habiletés de force physique,,
+A02a01,Descriptor,Trunk Strength,Force du torse,18,Force du tronc
+A02a02,Descriptor,Static Strength,Force statique,,
+A02a03,Descriptor,Dynamic Strength,Force dynamique,,
+A02a04,Descriptor,Explosive Strength,Force explosive,,
+A02b,Similarity Group,"Flexibility, Balance, and Coordination","Flexibilité, équilibre et coordination",,
+A02b01,Descriptor,Multi-Limb Coordination,Coordination de plusieurs membres,,
+A02b02,Descriptor,Gross Body Coordination,Coordination globale du corps,,
+A02b03,Descriptor,Gross Body Equilibrium,Équilibre global du corps,,
+A02b04,Descriptor,Body Flexibility,Flexibilité corporelle,13,Extent Flexibility
+A02b05,Descriptor,Dynamic Flexibility,Souplesse dynamique,,
+A02c,Similarity Group,Endurance,Endurance,,
+A02c01,Descriptor,Stamina,Endurance,,
+A03,Sub-Category,Psychomotor Abilities,Habiletés psychomotrices,,
+A03a,Similarity Group,Fine Manipulative Abilities,Habiletés de manipulations fines,,
+A03a01,Descriptor,Arm-Hand Steadiness,Stabilité des bras et des mains,13,Steady motion
+,,,,13,Stabilize motions
+,,,,13,Arm-hand stability
+A03a02,Descriptor,Finger Dexterity,Dextérité digitale,,
+A03a03,Descriptor,Manual Dexterity,Dextérité manuelle,,
+A03b,Similarity Group,Control Movement Abilities,Contrôler les habiletés de mouvement,,
+A03b01,Descriptor,Motor Coordination,Coordination motrice,13,Hand-eye coordination
+A03b02,Descriptor,Rate Control,Maîtrise de la cadence,,
+A03b03,Descriptor,Control of Settings,Contrôle des réglages,,
+A03b04,Descriptor,Multi-Signal Response,Réaction à plusieurs signaux,,
+A03c,Similarity Group,Reaction Time and Speed Abilities,Habiletés de temps de réaction et de vitesse,,
+A03c01,Descriptor,Reaction Time,Temps de réaction,,
+A03c02,Descriptor,Speed of Limb Movement,Rapidité de mouvement des membres,,
+A03c03,Descriptor,Finger-Hand-Wrist Motion,"Mouvement des doigts, mains et poignets",18,Rapidité de mouvement du poignet et des doigts
+,,,,13,Wrist-Finger Speed
+,,,,13,Wrist-finger gesture
+A04,Sub-Category,Sensory Abilities,Habiletés sensorielles,,
+A04a,Similarity Group,Auditory and Speech Abilities,Habiletés auditives et verbales,,
+A04a01,Descriptor,Auditory Attention,Concentration auditive,13,Sound perception
+,,,,13,Effective listening
+,,,,13,Sound attention
+A04a02,Descriptor,Hearing Sensitivity,Sensibilité auditive,13,Sound sensitivity
+A04a03,Descriptor,Speech Clarity,Clarté du langage,,
+A04a04,Descriptor,Speech Recognition,Reconnaissance de la parole,,
+A04a05,Descriptor,Sound Localization,Localisation de sources sonores,,
+A04b,Similarity Group,Visual Abilities,Habiletés visuelles,,
+A04b01,Descriptor,Far Vision,Vision de loin,13,Distance vision
+,,,,18,Vision à distance
+,,,,18,Voir de loin
+A04b02,Descriptor,Near Vision,Vision de près,,
+A04b03,Descriptor,Peripheral Vision,Vision périphérique,,
+A04b04,Descriptor,Depth Perception,Perception de la profondeur,,
+A04b05,Descriptor,Glare Tolerance,Tolérance aux éblouissements,,
+A04b06,Descriptor,Night Vision,Vision nocturne,,
+A04c,Similarity Group,Other Sensory Abilities,Autres habiletés sensorielles,,
+A04c01,Descriptor,Colour Perception,Perception des couleurs,13,Visual Colour Discrimination
+,,,,18,Distinction visuelle des couleurs
+A04c02,Descriptor,Smell,Odorat,18,Odeur
+A04c03,Descriptor,Taste,Goûter,,
+A04c04,Descriptor,Touch,Toucher,13,Tactile perception
+,,,,18,Perception tactile
+B,Category,Personal Attributes,Attributs personnels,13,Soft Skills
+,,,,13,Social skills
+,,,,13,Behavioural skills
+,,,,13,Personal qualities
+,,,,13,Personal traits
+,,,,13,Personal characteristics
+,,,,13,Individual characteristics
+,,,,18,Compétences sociales
+,,,,18,Compétences comportementales
+,,,,18,Qualités personnelles
+,,,,18,Traits de caractère
+,,,,18,Caractéristiques personnelles
+,,,,18,Caractéristiques individuelles
+,,,,18,Talents
+B01,Sub-Category,Social Traits,Traits sociaux,,
+B01a,Similarity Group,Social Influence,Influence sociale,,
+B01a01,Descriptor,Leadership,Leadership,,
+B01a02,Descriptor,Charisma,Charisme,,
+B01b,Similarity Group,Interpersonal Orientation,Orientation interpersonnelle,,
+B01b01,Descriptor,Concern for Others,Préoccupation des autres,,
+B01b02,Descriptor,Collaboration,Collaboration,13,Collaborative
+,,,,18,Collaboratif
+,,,,13,Cooperation
+,,,,18,Coopération
+B01b03,Descriptor,Service Orientation,Orientation axée sur le service,,
+B01b04,Descriptor,Trust in Others,Confiance envers les autres,,
+B01b05,Descriptor,Social Orientation,Orientation sociale,,
+B02,Sub-Category,Self-Improvement,Amélioration de soi,,
+B02a,Similarity Group,Adjustment,Réglage,,
+B02a01,Descriptor,Adaptability,Adaptabilité,,
+B02a02,Descriptor,Self-Control,Maîtrise de soi,,
+B02a03,Descriptor,Stress Tolerance,Tolérance au stress,,
+B02a04,Descriptor,Tolerance of Ambiguity,Tolérance à l’ambiguïté,,
+B02a05,Descriptor,Resilience,Résilience,,
+B02b,Similarity Group,Self-Reflective Orientation,Orientation auto-réflexive,,
+B02b01,Descriptor,Self-Awareness,Connaissance de soi,,
+B02b02,Descriptor,Self-Confidence,Confiance en soi,,
+B02c,Similarity Group,Learning Orientation,Orientation de l'apprentissage,,
+B02c01,Descriptor,Active Learning,Apprentissage actif,13,Intellectual curiosity
+,,,,13,Lifelong learning
+B02c02,Descriptor,Continuous Learning,Apprentissage continu,,
+B03,Sub-Category,Results-Based Attributes,Attributs axés sur les résultats,,
+B03a,Similarity Group,Action-Oriented,Orientation vers la réalisation,,
+B03a01,Descriptor,Achievement,Accomplissement,,
+B03a02,Descriptor,Initiative,Initiative,,
+B03a03,Descriptor,Motivation,Motivation,13,Showing initiative
+,,,,18,Faire preuve d’initiative
+B03a04,Descriptor,Perseverance,Persévérance,,
+B03a05,Descriptor,Risk-Taking,Prendre des risques,,
+B03a06,Descriptor,Competitiveness,Être compétitif,18,Compétitivité
+B03a07,Descriptor,Independence,Autonomie,,
+B04,Sub-Category,Professional Conscientiousness,Conscience professionnelle,,
+B04a,Similarity Group,Sense of Responsibility,Le sens des responsabilités,,
+B04a01,Descriptor,Reliable,Fiable,13,Dependability
+,,,,18,Fiabilité
+,,,,18,Être fiable
+B04a02,Descriptor,Integrity,Intégrité,,
+B04a03,Descriptor,Being Responsible,Être responsable,13,Accountable
+,,,,13,Sense of Responsibility
+,,,,18,Responsabilisation
+,,,,18,Responsabilité
+B05,Sub-Category,Dynamic Thinking,Pensée dynamique,,
+B05a,Similarity Group,Practical Thinking,Réflexion pratique,,
+B05a01,Descriptor,Having Judgement,Avoir du jugement,18,Jugement
+B05a02,Descriptor,Analytical Thinking,Pensée analytique,18,Le raisonnement analytique
+,,,,18,Réflexion analytique
+,,,,13,Innovation
+,,,,18,Innovation
+B05a03,Descriptor,Attention to Detail,Souci du détail,,
+B05b,Similarity Group,Unconventional Thinking,Pensée non conventionnelle,,
+B05b01,Descriptor,Creativity,Créativité,,
+B05b02,Descriptor,Innovativeness,Esprit d’innovation,,
+B05b03,Descriptor,Entrepreneurial Spirit,Esprit d’entrepreneuriat,,
+C,Category,Interests,Intérêts,,
+C01,Sub-Category,Holland Codes,Codes Holland,13,RIASEC codes
+,,,,18,Codes RIASEC
+C01a,Similarity Group,Interests - Holland Codes,Intérêts - Codes Holland,,
+C01a01,Descriptor,Realistic,Réaliste,,
+C01a02,Descriptor,Investigative,Investigateur,,
+C01a03,Descriptor,Artistic,Artistique,,
+C01a04,Descriptor,Social,Social,,
+C01a05,Descriptor,Enterprising,Entreprenant,,
+C01a06,Descriptor,Conventional,Conventionnel,,
+F,Category,Skills,Compétences,,
+F01,Sub-Category,Foundational Skills,Compétences fondamentales,13,Core skills
+,,,,13,Basic skills
+,,,,13,Fundamental skills
+,,,,13,Basis skills
+,,,,18,Compétences de base
+,,,,18,Compétences de fondation
+F01a,Similarity Group,Verbal Skills,Compétences verbales,,
+F01a01,Descriptor,Oral Communication: Active Listening,Communication verbale : écoute active,,
+F01a02,Descriptor,Oral Communication: Oral Comprehension,Communication verbale : compréhension orale,,
+F01a03,Descriptor,Oral Communication: Oral Expression,Communication verbale : expression orale,13,Speaking
+,,,,18,Parler
+F01b,Similarity Group,Reading and Writing Skills,Compétences en lecture et en écriture,,
+F01b01,Descriptor,Reading Comprehension,Compréhension de lecture,18,Littératie
+,,,,13,Literacy
+F01b02,Descriptor,Writing,Rédaction,,
+F01c,Similarity Group,Mathematical Skills,Compétences mathématiques,,
+F01c01,Descriptor,Numeracy,Numératie,13,Mathematics
+,,,,18,Mathématiques
+,,,,13,Mathematic
+,,,,18,Mathématique
+F01c02,Descriptor,Digital Literacy,Littératie numérique,13,Digital proficiency
+,,,,13,Digital skills
+,,,,13,Digital competencies
+,,,,13,Digitally fluent
+,,,,13,Digital capabilities
+,,,,13,Digital citizenship
+,,,,13,Digital capacity
+,,,,13,Digital acumen
+,,,,18,Acuité numérique
+,,,,18,Maîtrise des technologies de l’information et de la communication
+,,,,18,Habiletés technologiques
+,,,,18,Citoyenneté numérique
+,,,,18,Capacités numériques
+,,,,18,Maîtrise du numérique
+,,,,18,Compétences numériques
+,,,,18,Compétence numérique
+F02,Sub-Category,Analytical Skills,Compétences analytiques,13,Metacognitives
+,,,,18,Métacognitives
+,,,,13,Meta-cognitive
+,,,,13,Metacognitive
+,,,,18,Métacognitive
+F02a,Similarity Group,Process Analysis Skills,Compétences en matière d'analyse des processus,,
+F02a01,Descriptor,Critical Thinking,Pensée critique,13,Critical mindset
+,,,,18,Esprit critique
+,,,,18,État d'esprit critique
+F02a02,Descriptor,Learning and Teaching Strategies,Stratégies d’apprentissage et d’enseignement,13,Learning Strategies
+,,,,18,Stratégies d’apprentissage
+F02a03,Descriptor,Decision Making,Prise de décisions,,
+F02b,Similarity Group,Operations and Systems Analysis Skills,Compétences en matière d'analyse des opérations et des systèmes,,
+F02b01,Descriptor,Evaluation,Évaluation,,
+F02b02,Descriptor,Requirements Analysis,Analyse reliée aux exigences,13,Operations Analysis
+,,,,18,Analyse d’opérations
+F02b03,Descriptor,Systems Analysis,Analyse de systèmes,,
+F02b04,Descriptor,Researching and Investigating,Recherche et enquête,,
+F02b05,Descriptor,Problem Solving,Résolution de problèmes,18,Résolution de problème
+,,,,18,Résolution des problèmes
+,,,,13,Problem solving process
+,,,,13,Problem-solving
+F03,Sub-Category,Technical Skills,Compétences techniques,13,Hard skills
+F03a,Similarity Group,Technical Skills,Compétences techniques,,
+F03a01,Descriptor,Equipment and Tool Selection,Sélection des équipements et d'outils,13,Equipment Selection
+,,,,18,Sélection d’équipement
+F03a02,Descriptor,Preventative Maintenance,Maintenance préventive,13,Equipment Maintenance
+,,,,18,Entretien d’équipement
+F03a03,Descriptor,Setting Up,Ajustage — montage,,
+F03a04,Descriptor,Operation and Control,Fonctionnement et contrôle,,
+F03a05,Descriptor,Operation Monitoring of Machinery and Equipment,Surveillance du fonctionnement des équipements et de la machinerie,18,Surveillance du fonctionnement
+,,,,13,Operation Monitoring
+F03a06,Descriptor,Troubleshooting,Dépannage,,
+F03a07,Descriptor,Repairing,Réparer,,
+F03a08,Descriptor,Quality Control Testing,Test de contrôle de la qualité,13,Quality Control Analysis
+,,,,18,Analyse de contrôle qualité
+F03a09,Descriptor,Product Design,Conception de produit,13,Technology Design
+,,,,18,Conception technologique
+F03a10,Descriptor,Digital Production,Production numérique,,
+F04,Sub-Category,Resource Management Skills,Compétences en gestion de ressources,,
+F04a,Similarity Group,Resource Management Skills,Compétences en matière de gestion des ressources,,
+F04a01,Descriptor,Management of Financial Resources,Gestion des ressources financières,,
+F04a02,Descriptor,Management of Material Resources,Gestion des ressources matérielles,,
+F04a03,Descriptor,Management of Personnel Resources,Gestion des ressources humaines,,
+F04b,Similarity Group,Planning Skills,Compétences en matière de planification,,
+F04b01,Descriptor,Operational Planning,Planification opérationnelle,,
+F04b02,Descriptor,Projecting Outcomes,Projection des résultats,,
+F04b03,Descriptor,Risk Management,Gestion du risque,,
+F04b04,Descriptor,Strategic Planning,Planification stratégique,,
+F04b05,Descriptor,Time Management,Gestion du temps,,
+F04c,Similarity Group,Monitoring,Suivi de performance,,
+F04c01,Descriptor,Monitoring,Suivi de performance,,
+F04d,Similarity Group,Change Management and Crisis Management Skills,Compétences en matière de gestion du changement et de gestion de crise,,
+F04d01,Descriptor,Change Management,Gestion du changement,,
+F04d02,Descriptor,Crisis Management,Gestion de crise,,
+F05,Sub-Category,Interpersonal Skills,Compétences interpersonnelles,,
+F05a,Similarity Group,Interpersonal Skills,Compétences interpersonnelles,,
+F05a01,Descriptor,Coordinating,Coordination,,
+F05a02,Descriptor,Instructing,Instruire,,
+F05a03,Descriptor,Negotiating,Négociation,,
+F05a04,Descriptor,Persuading,Persuasion,,
+F05a05,Descriptor,Social Perceptiveness,Perception sociale,,
+F05a06,Descriptor,Cross-Cultural Sensitivity,Sensibilité interculturelle,13,Cross-Cultural Sensitivity
+,,,,18,Sensibilité interculturelle
+,,,,13,Cultural intelligence
+,,,,13,Worldview-inclusive attitude
+,,,,18,Citoyen éthique
+,,,,18,Compétence interculturelle
+F05a07,Descriptor,Managing Conversation,Gestion de conversations,18,Animateur
+,,,,13,Facilitator
+,,,,18,Facilitateur
+G,Category,Knowledge,Connaissances,,
+G01,Sub-Category,Administration and Management,Administration et gestion,,
+G01a,Similarity Group,Administration and Management,Administration et gestion,,
+G01a01,Descriptor,Accounting,Comptabilité,,
+G01a02,Descriptor,Business Management,Gestion des affaires,,
+G01a03,Descriptor,Clerical,Travail de bureau,,
+G01a04,Descriptor,Finance,Finance,,
+G01a05,Descriptor,Human Resources and Labour relations,Ressources humaines et relations de travail,,
+G01a06,Descriptor,Sale and Marketing,Vente et Marketing,,
+G01a07,Descriptor,Client Service,Services aux clients,,
+G02,Sub-Category,Communication,Communication,,
+G02a,Similarity Group,Communication,Communication,,
+G02a01,Descriptor,Communications and Media,Communications et médias,,
+G03,Sub-Category,Education,Éducation,,
+G03a,Similarity Group,Education,Éducation,,
+G03a01,Descriptor,Teaching,Enseignement,,
+G03a02,Descriptor,"Training, Mentoring and Coaching","Formation, mentorat et encadrement",,
+G04,Sub-Category,Health and Wellbeing,Santé et bien-être,,
+G04a,Similarity Group,Health and Wellbeing,Santé et bien-être,,
+G04a01,Descriptor,Hospitality,Hospitalité,,
+G04a02,Descriptor,Mental Health,Santé mentale,,
+G04a03,Descriptor,Personal Services,Services personnels,,
+G04a04,Descriptor,Physical Health,Santé physique,,
+G04a05,Descriptor,"Recreation, Leisure and Fitness","Récréation, loisirs et exercices physiques",,
+G04a06,Descriptor,Veterinarian and Animal Care,Vétérinaire et soins aux animaux,,
+G05,Sub-Category,"Law, Government and Safety","Droit, gouvernement et sécurité",,
+G05a,Similarity Group,"Law, Government and Safety","Droit, gouvernement et sécurité",,
+G05a01,Descriptor,Military,Militaire,,
+G05a02,Descriptor,Law,Droit,,
+G05a03,Descriptor,Public Affairs and Government Relations,Affaires publiques et relations gouvernementales,,
+G05a04,Descriptor,Public Safety and Security,Sûreté et sécurité publique,,
+G06,Sub-Category,"Logistics, Design and Evaluation","Logistique, conception et évaluation",,
+G06a,Similarity Group,"Logistics, Design and Evaluation","Logistique, conception et évaluation",,
+G06a01,Descriptor,"Manufacturing, Processing and Production",Fabrication et production,,
+G06a02,Descriptor,Logistics,Logistique,,
+G06a03,Descriptor,Performance Measurement,Mesure de la performance,,
+G06a04,Descriptor,Technical Design,Conception technique,,
+G07,Sub-Category,Natural Resources,Ressources naturelles,,
+G07a,Similarity Group,Natural Resources,Ressources naturelles,,
+G07a01,Descriptor,Agriculture and Horticulture,Agriculture et horticulture,,
+G07a02,Descriptor,Forestry,Foresterie,,
+G07a03,Descriptor,Geological Resources,Ressources géologiques,,
+G07a04,Descriptor,"Livestock, Farm Animals & Wildlife","Animaux d’élevage, de basse-cour et de faune sauvage",,
+G07a05,Descriptor,Water Resources,Ressources aquatiques,,
+G08,Sub-Category,Physical Sciences,Sciences physiques,,
+G08a,Similarity Group,Physical Sciences,Sciences physiques,,
+G08a01,Descriptor,Biology,Biologie,,
+G08a02,Descriptor,Chemistry,Chimie,,
+G08a03,Descriptor,Geoscience,Géoscience,,
+G08a05,Descriptor,Physics,Physique,,
+G09,Sub-Category,Socioeconomic Systems,Systèmes socio-économiques,,
+G09a,Similarity Group,Socioeconomic systems,Systèmes socio-économiques,,
+G09a01,Descriptor,Arts,Arts,,
+G09a02,Descriptor,Economics,Économie,,
+G09a03,Descriptor,Humanities,Sciences humaines,,
+G09a04,Descriptor,"Library, Conservation, and Heritage","Bibliothèque, conservation et patrimoine",,
+G09a05,Descriptor,Theology and Philosophy,Théologie et philosophie,,
+G10,Sub-Category,"Technology, Electrical, Material and Mechanical","Technologie, électricité, matériaux et mécanique",,
+G10a,Similarity Group,"The Technology, Electrical, Material and Mechanical","La Technologie, électricité, matériaux et mécanique",,
+G10a01,Descriptor,Building and Construction,Bâtiment et construction,,
+G10a02,Descriptor,"Computer, Technology and Information Systems","Informatique, technologie et systèmes d'information",,
+G10a03,Descriptor,Electrical and Electronics,Électricité et électronique,,
+G10a04,Descriptor,Mechanics and Machinery,Mécanique et machines,,
+G10a05,Descriptor,Telecommunications,Télécommunications,,
+G10a06,Descriptor,"Vehicle, Machinery and Equipment Operations","Exploitation de véhicules, de machinerie et d'équipement",,
+G11,Sub-Category,Foundational Knowledge,Connaissances fondamentales,,
+G11a,Similarity Group,Foundational Knowledge,Connaissances fondamentales,,
+G11a01,Descriptor,Languages,Langues,,
+G11a02,Descriptor,Mathematics,Mathématiques,,
+J,Category,Work Context,Contexte de travail,,
+J01,Sub-Category,Structural Job Characteristics,Caractéristiques structurelles de l’emploi,,
+J01a,Similarity Group,Criticality of Position,Caractère critique de la position,,
+J01a01,Descriptor,Consequence of Error,Conséquence des erreurs,,
+J01a02,Descriptor,Freedom to Make Decisions,Liberté décisionnelle,,
+J01a03,Descriptor,Frequency of Decision Making,Fréquence de la prise de décisions,,
+J01a04,Descriptor,Impact of Decisions,Incidence des décisions,,
+J01b,Similarity Group,Various Challenge Types,Différents types de défis,,
+J01b01,Descriptor,Automation,Automatisation,,
+J01b02,Descriptor,Precision,Précision,,
+J01b03,Descriptor,Structured versus Unstructured Work,Travail structuré par rapport au travail non structuré,,
+J01b04,Descriptor,Tasks Repetition,Répétition des tâches,,
+J01c,Similarity Group,Pace and Scheduling,Rythme et calendrier,,
+J01c01,Descriptor,Pace Determined by Speed of Equipment,Rythme déterminé par la vitesse de fonctionnement de l’équipement,,
+J01c02,Descriptor,Time Pressure,Contraintes de temps,,
+J01c03,Descriptor,Type of Work Schedules,Type d’horaires de travail,,
+J01c04,Descriptor,Work Week Duration,Durée d’une semaine de travail,,
+J01d,Similarity Group,Level of Competition,Niveau de concurrence,,
+J01d01,Descriptor,Competition,Concurrence,,
+J02,Sub-Category,Physical Work Environment,Environnement physique de travail,,
+J02a,Similarity Group,Exposure to Job Hazards,Exposition aux risques du travail,,
+J02a01,Descriptor,Dangerous Locations,Lieux de travail dangereux,,
+J02a02,Descriptor,"Fire, Steam, Hot Surfaces","Incendie, vapeur, surfaces chaudes",,
+J02a03,Descriptor,"Flying Particles, Falling Objects","Particules volantes, objets en chute libre",,
+J02a04,Descriptor,Hazardous Conditions,Conditions dangereuses,,
+J02a05,Descriptor,"Hazardous Equipment, Machinery, Tools","Équipements, machineries et outils dangereux",,
+J02a06,Descriptor,High Places,Hauteurs,,
+J02a07,Descriptor,Radiation,Radiation,,
+J02a08,Descriptor,"Cramped Work Space, Awkward Positions","Espace étroit, positions contraignantes",,
+J02a09,Descriptor,Skin Injury,Blessure cutanée,,
+J02b,Similarity Group,Work Setting,Cadre de travail,,
+J02b01,Descriptor,In an Enclosed Vehicle or Equipment,Travailler dans un véhicule ou équipement clos,,
+J02b02,Descriptor,In an Open Vehicle or Equipment,Travailler dans un véhicule ou équipement sans toit,,
+J02b03,Descriptor,"Indoors, Environmentally Controlled",Travailler à l’intérieur dans un environnement contrôlé.,,
+J02b04,Descriptor,"Indoors, Not Environmentally Controlled",Travailler à l’intérieur dans un environnement non contrôlé,,
+J02b05,Descriptor,"Outside, Exposed to Weather","Travail extérieur, exposé aux conditions météorologiques",,
+J02b06,Descriptor,"Outside, Under Cover","Travailler à l’extérieur, à l’abri des conditions météorologiques",,
+J02b07,Descriptor,Physical Proximity,Proximité physique,,
+J02c,Similarity Group,Environmental Conditions,Conditions environnementales,,
+J02c01,Descriptor,Biological Agents,Agents biologiques,,
+J02c02,Descriptor,Dangerous Chemical Substances,Substances chimiques dangereuses,,
+J02c03,Descriptor,Vibration,Vibrations,,
+J02c04,Descriptor,Sound and Noise,Sons et bruits,,
+J02c05,Descriptor,Extremely Bright or Inadequate Lighting,Éclairage extrême ou inadéquat,,
+J02c06,Descriptor,Extreme Temperatures,Températures extrêmes,,
+J02c07,Descriptor,Odours,Odeurs,,
+J02d,Similarity Group,Safety Equipment Required,Équipement de sécurité requis,,
+J02d01,Descriptor,Specialized Safety Equipment,Équipement de sécurité spécialisé,,
+J02d02,Descriptor,Standard Safety Equipment,Équipement de sécurité de base,,
+J03,Sub-Category,Physical Demands,Exigences physiques,,
+J03a,Similarity Group,Body Positioning,Positionnement du corps,,
+J03a01,Descriptor,Bending or Twisting the Body,Se pencher ou se tordre le corps,,
+J03a02,Descriptor,Climbing,Grimper,,
+J03a03,Descriptor,Crawling,Ramper,,
+J03a04,Descriptor,Crouching,S’accroupir,,
+J03a05,Descriptor,Handling Material Manually,Manipuler manuellement du matériel,,
+J03a06,Descriptor,Keeping or Regaining Balance,Garder ou rétablir son équilibre,,
+J03a07,Descriptor,Kneeling,S’agenouiller,,
+J03a08,Descriptor,Making Repetitive Motions,Faire des gestes répétitifs,,
+J03a09,Descriptor,Sitting,Être assis,,
+J03a10,Descriptor,Standing,Rester debout,,
+J03a11,Descriptor,Walking and Running,Marcher et courir,,
+J03a12,Descriptor,Reaching,Atteindre,,
+J03a13,Descriptor,Stooping,Se pencher,,
+J03a14,Descriptor,Keyboarding,Utiliser un clavier,,
+J03b,Similarity Group,Body Exertion,Effort corporel,,
+J03b01,Descriptor,Carrying,Transporter,,
+J03b02,Descriptor,Lifting,Soulever,,
+J03b03,Descriptor,Pulling,Tirer,,
+J03b04,Descriptor,Pushing,Pousser,,
+J03c,Similarity Group,Speaking and Seeing,Parler et voir,,
+J03c01,Descriptor,Speaking,Prise de la parole,,
+J03c02,Descriptor,Visual Acuity,Acuité visuelle,,
+J04,Sub-Category,Interpersonal Relations,Relations interpersonnelles,,
+J04a,Similarity Group,Job interactions,Interactions professionnelles,,
+J04a01,Descriptor,Conflict Situations,Situations conflictuelles,,
+J04a02,Descriptor,Contact with Others,Être en contact avec d’autres personnes,,
+J04a03,Descriptor,Coordinating or Leading Others,Coordonner ou diriger d’autres personnes,,
+J04a04,Descriptor,Deal With External Customers,Traiter avec des clients de l’externe,,
+J04a05,Descriptor,Work with Work Group or Team,Travail en équipe ou en groupe,,
+J04a06,Descriptor,Deal with Physically Aggressive People,Traiter avec des gens au comportement physiquement agressif,,
+J04a07,Descriptor,Dealing With Unpleasant or Angry People,Traiter avec des gens en colère ou au comportement déplaisant,,
+J04b,Similarity Group,Communication Methods,Méthodes de communication,,
+J04b01,Descriptor,Electronic Mail,Utilisation de messagerie électronique,,
+J04b02,Descriptor,Face-to-Face Discussions,Discussions en personne,,
+J04b03,Descriptor,Written Communications,Communications écrites,13,Letters and Memos
+,,,,18,Lettres et notes de service
+J04b04,Descriptor,Public Speaking,Parler en public,,
+J04b05,Descriptor,Telephone,Utilisation du téléphone,,
+J04b06,Descriptor,Videoconference,Vidéoconférence,,
+J04c,Similarity Group,Interpersonal Responsibilities,Responsabilités interpersonnelles,,
+J04c01,Descriptor,Responsibility for Outcomes and Results of Other Workers,Porter la responsabilité des résultats des autres travailleurs,,
+J04c02,Descriptor,Responsible for Others' Health and Safety,Porter la responsabilité relative à la santé et la sécurité d'autres personnes,,
+K,Category,Work Activities,Activités du travail,,
+K01,Sub-Category,Information-Oriented Activities,Activités axées sur l’information,,
+K01a,Similarity Group,Looking for and Receiving Job-Related Information,Recherche et réception d'informations relatives à l'emploi,,
+K01a01,Descriptor,Getting Information,Obtention d’information,,
+K01a02,Descriptor,"Monitoring Processes, Materials, or Surroundings","Surveillance de processus, de matériels ou d’environnements",,
+K01a03,Descriptor,Document Use,Utilisation de documents,,
+K01a04,Descriptor,Information Synthesis,Synthèse d'information,,
+K01a05,Descriptor,Comparing,Comparaison,,
+K01a06,Descriptor,Analyzing Data or Information,Analyser des données ou de l’information,,
+K01a07,Descriptor,Developing Technical Instructions,Développer des instructions techniques,,
+K01a08,Descriptor,Clerical Activities,Tâches administratives,,
+K01b,Similarity Group,Identify and Evaluating Job-Relevant Information,Identifier et évaluer l'information pertinente pour l'emploi,,
+K01b01,Descriptor,"Identifying Objects, Actions, and Events","Identification d’objets, d'actions et d'événements",,
+K01b02,Descriptor,Estimating the Quantifiable Characteristics,Estimation des caractéristiques quantifiables,,
+K01b03,Descriptor,"Inspecting Equipment, Structures, or Material","Inspection d’équipements, de structures ou de matériaux",,
+K01b04,Descriptor,Processing Information,Traiter de l’information,,
+K02,Sub-Category,Physically-Oriented Activities,Activités axées sur la dimension physique,,
+K02a,Similarity Group,Performing Physical and Manual Work Activities,Exécution d'activités de travail physique et manuel,,
+K02a01,Descriptor,Handling and Moving Objects,Manipuler et déplacer des objets,,
+K02a02,Descriptor,"Operating Vehicles, Mechanized Devices, or Equipment","Manœuvrer des véhicules, appareils ou équipements mécaniques",,
+K02a03,Descriptor,Constructing,Construire,,
+K02a04,Descriptor,Controlling Machines and Processes,Contrôler des machines et des processus,,
+K02a05,Descriptor,Manipulating - Operating,Manipuler - Opérer,,
+K02a06,Descriptor,Sorting,Triage,,
+K02a07,Descriptor,Catering,Restauration,,
+K02a08,Descriptor,Performing Janitorial Services,Effectuer des services de conciergerie,,
+K02a09,Descriptor,Performing General Physical Activities,Performer des activités physiques,,
+K02b,Similarity Group,Performing Complex and Technical Activities,Exécution d'activités complexes et techniques,,
+K02b01,Descriptor,Debugging and Reprogramming,Dépanner et reprogrammer,,
+K02b02,Descriptor,Artistic Designing,Conception artistique,,
+K02b03,Descriptor,Electronic Maintenance,Entretien électronique,,
+K02b04,Descriptor,Interacting with Computers,Utiliser des ordinateurs,,
+K02b05,Descriptor,Mechanical Maintenance,Entretien mécanique,,
+K02b06,Descriptor,Writing or Composing,Rédiger ou composer,,
+K03,Sub-Category,Mental Process-Oriented Activities,Activités axées sur les processus mentaux,,
+K03a,Similarity Group,Information and Data Processing,Traitement de l'information et des données,,
+K03a01,Descriptor,Judging Quality,Juger de la qualité,,
+K03a02,Descriptor,Evaluating Information to Determine Compliance,Évaluer l’information pour vérifier la conformité,,
+K03a03,Descriptor,Calculating,Calculer,,
+K03b,Similarity Group,Reasoning and Decision Making,Raisonnement et prise de décision,,
+K03b01,Descriptor,Making Decisions,Prendre des décisions,,
+K03b02,Descriptor,Thinking Creatively,Pensée créative,,
+K03b03,Descriptor,Developing Objectives and Strategies,Élaborer des objectifs et des stratégies,,
+K03b04,Descriptor,Applying New Knowledge,Appliquer de nouvelles connaissances,,
+K03b05,Descriptor,Examining and Diagnosing,Examiner et diagnostiquer,,
+K03b06,Descriptor,Managing Resources,Gérer des ressources,,
+K03b07,Descriptor,Planning and Organizing,Planifier et organiser,,
+K03b08,Descriptor,Scheduling Work and Activities,Établissement du calendrier du travail et des activités,,
+K04,Sub-Category,People-Oriented Activities,Activités orientées vers les personnes,,
+K04a,Similarity Group,Communicating and Interacting,Communiquer et interagir,,
+K04a01,Descriptor,Communicating with Coworkers,Communiquer avec les collègues de travail,,
+K04a02,Descriptor,Coordinating the Work and Activities of Others,Coordonner le travail et les activités d’autres personnes,,
+K04a03,Descriptor,Facilitating Group Discussion,Animer des discussions de groupe,,
+K04a04,Descriptor,Interpreting the Meaning of Information for Others,Interpréter l’information pour d’autres personnes,,
+K04a05,Descriptor,Protecting and Enforcing,Protéger et faire respecter les lois,,
+K04a06,Descriptor,Communicating with Persons Outside Organization,Communiquer avec des gens de l’extérieur de l’organisation,,
+K04a07,Descriptor,Establishing and Maintaining Interpersonal Relationships,Établir et maintenir des relations interpersonnelles,,
+K04a08,Descriptor,Selling or Influencing Others,Vendre ou influencer d’autres personnes,,
+K04a09,Descriptor,Performing for or Working Directly with the Public,Exécuter des tâches pour le public ou travailler directement avec lui,,
+K04a11,Descriptor,Interviewing,Questionner des personnes,,
+K04a12,Descriptor,Assisting and Caring for Others,Offrir du soutien et soins à d’autres personnes,,
+K04b,Similarity Group,"Coordinating, Developing, Managing, and Advising","Coordination, développement, gestion et conseil",,
+K04b01,Descriptor,Coaching and Developing Others,Encadrer et former des personnes,,
+K04b02,Descriptor,Providing Consultation and Advice,Fournir des conseils et avis,,
+K04b03,Descriptor,Resolving Conflicts and Negotiating with Others,Résoudre des conflits et négocier avec d’autres personnes,,
+K04b04,Descriptor,Supervising Subordinates,Superviser des subalternes,,
+K04b05,Descriptor,Team Building,Développer une équipe,,
+K04b06,Descriptor,Training and Teaching,Former et enseigner,,
+K04c,Similarity Group,Performing Administrative Activities,Exercer des activités administratives,,
+K04c01,Descriptor,Staffing,Mener des activités de dotation,,

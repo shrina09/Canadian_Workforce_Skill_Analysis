@@ -1,0 +1,415 @@
+﻿Column12;Column2;Column3;Column4
+Code;Structure Type;Name;Description
+A;Category;Abilities;Innate and developed aptitudes that facilitate the acquisition of knowledge and skills to carry out expected work.
+A.01;Sub-Category;Cognitive Abilities;Abilities that influence the acquisition and application of knowledge in performing various mental processes at work.
+A.01.a;Similarity Group;Idea Generation and Reasoning Abilities;
+A.01.a.01;Descriptor;Information Ordering;The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules, such as patterns of numbers, letters, words, pictures or mathematical operations.
+A.01.a.02;Descriptor;Categorization Flexibility;The ability to generate or use different sets of rules for combining or grouping things in different ways. 
+A.01.a.03;Descriptor;Deductive Reasoning;The ability to apply general rules to produce logical answers for specific problems. 
+A.01.a.04;Descriptor;Inductive Reasoning;The ability to combine pieces of information to form general rules or conclusions, which includes finding a relationship among seemingly unrelated events. 
+A.01.a.05;Descriptor;Fluency of Ideas;The ability to come up with multiple ideas about a topic. 
+A.01.a.06;Descriptor;Problem Identification;The ability to identify an existing or potential problem. It is not about solving the problem, but only about recognizing its presence. 
+A.01.b;Similarity Group;Quantitative Abilities;
+A.01.b.01;Descriptor;Numerical Ability; The ability to process arithmetical operations such as addition, subtraction, multiplication and division.
+A.01.b.02;Descriptor;Mathematical Reasoning;The ability to choose the right mathematical methods or formulas to solve a problem. 
+A.01.c;Similarity Group;Memory Abilities;
+A.01.c.01;Descriptor;Memorizing;The ability to remember information such as words, numbers, pictures or procedures.
+A.01.c.02;Descriptor;Multitasking;The ability to alternate between two or more activities or sources of information, such as conversations, sounds, touch or other stimuli, during the same period.
+A.01.c.03;Descriptor;Pattern Identification;The ability to identify or detect a known pattern such as a figure, object, word or sound that is hidden in other information or material.
+A.01.c.04;Descriptor;Pattern Organization Speed;The ability to quickly combine and organize information into meaningful patterns. 
+A.01.c.05;Descriptor;Perceptual Speed;The ability to compare, quickly and accurately, similarities and differences among sets of letters, numbers, objects, pictures or patterns. The things to be compared may be presented at the same time, one after the other or with a remembered object.
+A.01.d;Similarity Group;Spacial Abilities;
+A.01.d.01;Descriptor;Spatial Orientation;The ability to know your location in relation to the environment or know where objects are in relation to you.
+A.01.d.02;Descriptor;Spatial Visualization;The ability to think visually about geometric forms, comprehend the two-dimensional representation of three-dimensional objects and recognize the relationships resulting from the movement of objects in space.
+A.01.e;Similarity Group;Communication Abilities;
+A.01.e.01;Descriptor;Verbal Ability;The ability to understand the meaning, precise use, associated ideas and relationships of spoken words and to use them in the proper context when presenting information or ideas.
+A.01.e.02;Descriptor;Written Comprehension;The ability to read and understand information and ideas presented in written form. 
+A.01.e.03;Descriptor;Written Expression;The ability to communicate information and ideas in writing and adapting the writing style to the audience so that they can understand. 
+A.01.f;Similarity Group;Other Cognitive Abilities;
+A.01.f.01;Descriptor;Selective Attention;The ability to concentrate on a task over a period of time without being distracted. 
+A.01.f.02;Descriptor;Form Perception;The ability to notice details, make visual comparisons or distinctions, and identify differences in shapes, shading, dimensions or patterns in various types of information, materials, environments or other visual contexts.
+A.01.f.03;Descriptor;General Learning Ability;The ability to grasp, understand and assimilate new information and instructions and their underlying principles, and to filter them through reasoning and judgment.
+A.02;Sub-Category;Physical Abilities;Abilities needed to perform physical activities that require strength, endurance, flexibility, balance or coordination.
+A.02.f;Similarity Group;Physical Strength Abilities;
+A.02.f.01;Descriptor;Trunk Strength;"The ability to exert your abdominal and lower back muscles to support part of the body repeatedly or continuously over time without ""giving out"" or fatiguing."
+A.02.a.02;Descriptor;Static Strength;The ability to exert muscle force to lift, push, pull, carry or transfer objects.
+A.02.a.03;Descriptor;Dynamic Strength;The ability to exert muscle force repeatedly or continuously over time. This involves muscular endurance and resistance to muscle fatigue.
+A.02.a.04;Descriptor;Explosive Strength;The ability to exert short bursts of muscle force to propel oneself, as in jumping or sprinting, to throw an object or to apply force with a tool.
+A.02.b;Similarity Group;Flexibility, Balance and Coordination;
+A.02.b.01;Descriptor;Multi-Limb Coordination;The ability to coordinate two or more limbs, such as two arms, two legs or one leg and one arm, while sitting, standing or lying down. It does not involve performing the activities while the whole body is in motion.
+A.02.b.02;Descriptor;Gross Body Coordination;The ability to coordinate the movement of your arms, legs and torso together when the whole body is in motion.
+A.02.b.03;Descriptor;Gross Body Equilibrium;The ability to keep or regain your body balance or stay upright when in an unstable position.
+A.02.b.04;Descriptor;Body Flexibility;The ability to bend, stretch, twist or reach with your body, arms or legs, as required. 
+A.02.b.05;Descriptor;Dynamic Flexibility;The ability to quickly and repeatedly bend, stretch, twist or reach out with your body, arms or legs.
+A.02.c;Similarity Group;Endurance;
+A.02.c.01;Descriptor;Stamina;The ability to perform intense physical activities over long periods without becoming winded or out of breath.
+A.03;Sub-Category;Psychomotor Abilities;Abilities needed to manipulate and control objects.
+A.03.a;Similarity Group;Fine Manipulative Abilities;
+A.03.a.01;Descriptor;Arm-Hand Steadiness;The ability to keep your hand and arm steady while moving or holding them in one position.
+A.03.a.02;Descriptor;Finger Dexterity;The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate or assemble small objects.
+A.03.a.03;Descriptor;Manual Dexterity;The ability to move your hand, your hand together with your arm or your two hands to grasp, manipulate or assemble objects or tools.
+A.03.b;Similarity Group;Control Movement Abilities;
+A.03.b.01;Descriptor;Hand-Eye Coordination;The ability to coordinate eyes, hands and fingers accurately to respond with precise movements. 
+A.03.b.02;Descriptor;Rate Control;The ability to time your movements or the movement of a piece of equipment in anticipation of changes in the speed and/or direction of a moving object.
+A.03.b.03;Descriptor;Control of Settings;The ability to adjust the controls of a machine or a vehicle to exact positions.
+A.03.b.04;Descriptor;Multi-Signal Response;The ability to choose quickly between one or more movements with the hand, finger or foot in response to the appearance of two or more different signals such as lights, sounds or images.
+A.03.c;Similarity Group;Reaction Time and Speed Abilities;
+A.03.c.01;Descriptor;Reaction Time;The ability to respond quickly with one or more limbs to a stimulus such as noise, light or image.
+A.03.c.02;Descriptor;Speed of Limb Movement;The ability to quickly move the arms and legs.
+A.03.c.03;Descriptor;Finger-Hand-Wrist Motion;The ability to make fast, simple and repeated movements of the fingers, hands and wrists.
+A.04;Sub-Category;Sensory Abilities;Abilities needed to perform activities that require visual, auditory, tactile, olfactory or speech perception.
+A.04.a;Similarity Group;Auditory and Speech Abilities;
+A.04.a.01;Descriptor;Auditory Attention;The ability to give full attention on a single source of sound in the presence of other distracting sounds.
+A.04.a.02;Descriptor;Hearing Sensitivity;The ability to detect or distinguish the differences between sounds in terms of pitch and volume.
+A.04.a.03;Descriptor;Speech Clarity;The ability to articulate and pronounce words clearly, so others can understand you when you speak.
+A.04.a.04;Descriptor;Speech Recognition;The ability to identify and understand the speech of another person.
+A.04.a.05;Descriptor;Sound Localization;The ability to identify the direction, origin and distance from which a sound comes.
+A.04.b;Similarity Group;Visual Abilities;
+A.04.b.01;Descriptor;Far Vision;The ability to see details of objects and people at a distance.
+A.04.b.02;Descriptor;Near Vision;The ability to see details at close range.
+A.04.b.03;Descriptor;Peripheral Vision;The ability to see objects, people or their movement in the peripheral field of vision when looking ahead.
+A.04.b.04;Descriptor;Depth Perception;The ability to discern which of several objects is closer or farther away from you, or to estimate the distance between you and an object.
+A.04.b.05;Descriptor;Glare Tolerance;The ability to see objects or people in the presence of glare or bright lighting.
+A.04.b.06;Descriptor;Night Vision;The ability to see under low light conditions.
+A.04.c;Similarity Group;Other Sensory Abilities;
+A.04.c.01;Descriptor;Colour Perception;The ability to match or detect differences or similarities between colours, including shades of colour and brightness.
+A.04.c.02;Descriptor;Smell;The ability to perceive odours through the nose.
+A.04.c.03;Descriptor;Taste;The ability to recognize or verify a particular flavor of a substance by tasting it.
+A.04.c.04;Descriptor;Touch;The ability to acquire information about the environment through skin contact.
+B;Category;Personal Attributes;Personal characteristics that are innate and developed through the social context and personal experiences to which the individual is exposed. These qualities influence the way one is and does things and are considered valuable assets for work performance.
+B.01;Sub-Category;Social Traits;The personal characteristics related to the positive attitudes one has toward other people that most often lead to positive relationships.
+B.01.a;Similarity Group;Social Influence;
+B.01.a.01;Descriptor;Leadership;The quality of leading others towards a common goal by guiding, influencing and inspiring them.
+B.01.a.02;Descriptor;Charisma;The quality of possessing charm, attracting and arousing the interest, attention or admiration of others through speeches, attitudes, temperament or actions.
+B.01.b;Similarity Group;Interpersonal Orientation;
+B.01.b.01;Descriptor;Concern for Others;The quality of having empathy towards others' feelings and needs and being understanding and helpful.
+B.01.b.02;Descriptor;Collaboration;The quality of contributing and working cooperatively while being supportive and inclusive of others to achieve a common goal.
+B.01.b.03;Descriptor;Service Orientation;The quality of actively looking for ways to help, serve or assist others.
+B.01.b.04;Descriptor;Trust in Others;The quality of establishing and maintaining a relationship of trust with the people around you.
+B.01.b.05;Descriptor;Social Orientation;The quality of seeking to work with others and relating to them on the job.
+B.02;Sub-Category;Self-Improvement;The personal characteristics related to the improvement of one's knowledge, status or character by one's own efforts.
+B.02.a;Similarity Group;Adjustment;
+B.02.a.01;Descriptor;Adaptability;The quality of adapting oneself to expected or unexpected changes and different situations while continuing to achieve past or renewed goals.
+B.02.a.02;Descriptor;Self-Control;The quality of maintaining composure, keeping emotions in check, controlling anger and avoiding aggressive behaviour, even in very difficult situations.
+B.02.a.03;Descriptor;Stress Tolerance;The quality of being able to remain calm, without being carried away by stress situations and to deal effectively with such situations.
+B.02.a.04;Descriptor;Tolerance of Ambiguity;The quality of being able to function in an environment where there is uncertainty, unpredictability, conflicting directions or multiple demands and to approach these situations as challenges to improve.
+B.02.a.05;Descriptor;Resilience;The quality of recovering from difficulties or changes one has had to face, to bounce back and then move forward.
+B.02.b;Similarity Group;Self-Reflective Orientation;
+B.02.b.01;Descriptor;Self-Awareness;The quality of being aware of oneâ€™s own personality, character and feelings including strengths, weaknesses, thoughts, behaviors, beliefs, motivation and emotions.
+B.02.b.02;Descriptor;Self-Confidence;The quality of trust in oneâ€™s ability to achieve goals, believing in oneâ€™s potential and abilities and knowing that one is capable of achieving goals when facing challenges. 
+B.02.c;Similarity Group;Learning Orientation;
+B.02.c.01;Descriptor;Active Learning;The quality of proactively looking to understand the implications of new information in the current and changing workplace.
+B.02.c.02;Descriptor;Continuous Learning;The quality of developing and improving oneâ€™s skills, abilities, and knowledge over time to adapt to changes and work effectively. 
+B.03;Sub-Category;Results-Based Attributes;The personal characteristics related to the drivers around bringing things to completion.
+B.03.a;Similarity Group;Action-Oriented;
+B.03.a.01;Descriptor;Achievement;The quality of establishing and maintaining goals and exerting all effort to accomplish them successfully.
+B.03.a.02;Descriptor;Initiative;The quality of taking on responsibilities and challenges and proposing, doing or organizing something by oneself without being prompted by others.
+B.03.a.03;Descriptor;Motivation;The quality of being driven by interest, need, reason or reward to achieve something or to reach a set outcome.
+B.03.a.04;Descriptor;Perseverance;The quality of voluntarily and deliberately putting forth the effort required by a task or activity despite difficulties, failure or obstacles.
+B.03.a.05;Descriptor;Risk-Taking;The quality of being willing to make a risky choice, with regard for the consequences, in the hope of achieving a desired results or benefit in return.
+B.03.a.06;Descriptor;Competitiveness;The quality of being driven by a deep desire to be as good as or better than others to perform well in a comparable context.
+B.03.a.07;Descriptor;Independence;The quality of developing one's own way of doing things, guiding oneself with little or no supervision and depending on oneself to get things done.
+B.04;Sub-Category;Professional Conscientiousness;The personal characteristics related to the drivers around fulfilling commitments. 
+B.04.a;Similarity Group;Sense of Responsibility;
+B.04.a.01;Descriptor;Reliability;The quality of being dependable and respectful of commitments.
+B.04.a.02;Descriptor;Integrity;The quality of being honest, ethical and authentic.
+B.04.a.03;Descriptor;Being Responsible;The quality of taking responsibility for oneâ€™s own actions and the actions of a group.
+B.05;Sub-Category;Dynamic Thinking;The personal characteristics related to bubbling ideas and critical thinking. 
+B.05.a;Similarity Group;Practical Thinking;
+B.05.a.01;Descriptor;Having Judgement;The quality of forming an opinion consistent with common sense based on an assessment of an event or fact.
+B.05.a.02;Descriptor;Analytical Thinking;The quality of analyzing information and using logic to address issues and problems.
+B.05.a.03;Descriptor;Attention to Detail;The quality of being meticulous in the execution of tasks. 
+B.05.b;Similarity Group;Unconventional Thinking;
+B.05.b.01;Descriptor;Creativity;The quality of coming up with unusual or clever ideas about a given topic or situation, or to develop original ways to solve a problem.
+B.05.b.02;Descriptor;Innovativeness;The quality of alternative thinking to develop new products or services to make improvement or to develop a new approach.
+B.05.b.03;Descriptor;Entrepreneurial Spirit;The quality of identifying and seizing opportunities and moving from idea to achievement.
+C;Category;Interests;Occupation-related interests based on dominant activities and type of work.
+C.01;Sub-Category;Holland Codes;Holland codes, also referred to as RIASEC codes, refer to John L. Holland's six interest personality types. Each of them are characterized by the dominant activities, preferences and interests most often expected.
+C.01.a;Similarity Group;Interests - Holland Codes;
+C.01.a.01;Descriptor;Realistic;Realistic occupations are characterized by the dominance of activities that entail the explicit, ordered or systematic manipulation of objects, tools, machines and animals. Many of these occupations do not involve a lot of paperwork or working closely with others.
+C.01.a.02;Descriptor;Investigative;Investigative occupations are characterized by the dominance of activities that entail the observation and systematic or creative investigation of physical, biological or cultural phenomena. These occupations require an extensive amount of thinking and frequently involve working with ideas, searching for facts and figuring out problems mentally.
+C.01.a.03;Descriptor;Artistic;Artistic occupations are characterized by the dominance of activities that entail artistic expression to create, compose or produce visual, performing, literary or applied art. These occupations frequently involve working with forms, designs and patterns and often require self-expression and the accomplishment of work without following a clear set of rules.
+C.01.a.04;Descriptor;Social;Social occupations are characterized by the dominance of activities that entail the interaction with others to inform, train, aid, develop, cure or enlighten. These occupations often involve helping or providing service to others, teaching, working or communicating with people.
+C.01.a.05;Descriptor;Enterprising;Enterprising occupations are characterized by the dominance of action-oriented activities to attain organizational or self-interest goals. They frequently involve starting up and carrying out projects, influencing, leading or mobilizing people, making decisions and sometimes require risk taking and dealing with business.
+C.01.a.06;Descriptor;Conventional;Conventional occupations are characterized by the dominance of activities that entail following sets of procedures and routines. These activities may include systematic manipulation of data, such as keeping records, filing materials, reproducing materials, organizing written and numerical data according to a prescribed plan and operating business and data processing. They often require following a clear line of authority and usually involve working with data and details more than with ideas.
+F;Category;Skills;Developed capabilities that an individual must have to be effective in a job, role, function, task or duty.
+F.01;Sub-Category;Foundational Skills;Developed capabilities that facilitate the more rapid acquisition of other skills and knowledge.
+F.01.a;Similarity Group;Verbal Skills;
+F.01.a.01;Descriptor;Oral Communication: Active Listening;The capability to give full attention to what other people are saying, take time to understand the points being made, ask questions as appropriate and not interrupt at inappropriate times.
+F.01.a.02;Descriptor;Oral Communication: Oral Comprehension;The capability to listen to and understand information and ideas presented through spoken words and sentences.
+F.01.a.03;Descriptor;Oral Communication: Oral Expression;The capability to talk to others to convey information effectively.
+F.01.b;Similarity Group;Reading and Writing Skills;
+F.01.b.01;Descriptor;Reading Comprehension;The capability to understand written information presented through words, sentences, paragraphs, symbols and images in work-related documents.
+F.01.b.02;Descriptor;Writing;The capability to communicate in writing by using written words, sentences, paragraphs, symbols and images adapted for the needs of the audience.
+F.01.c;Similarity Group;Mathematical Skills;
+F.01.c.01;Descriptor;Numeracy;The capability to understand, use and report numbers and other mathematical information presented through words, numbers, symbols and graphics.
+F.01.c.02;Descriptor;Digital Literacy;The capability to understand and use digital devices and tools to obtain, exchange, create or process digital information in a secure manner.
+F.02;Sub-Category;Analytical Skills;Developed capabilities that people need to process information and data logically to produce useable results.
+F.02.a;Similarity Group;Process Analysis Skills;
+F.02.a.01;Descriptor;Critical Thinking;The capability to use logic and reasoning to question, discern, interpret and analyze various types of information to form an evidence-based conclusion or judgment.
+F.02.a.02;Descriptor;Learning and Teaching Strategies;The capability to select and use training/instructional methods and procedures appropriate for the situation when learning or teaching new things.
+F.02.a.03;Descriptor;Decision Making;The capability to assess feasible solutions or options and determine the most appropriate choice based on anticipated outcomes and alignment with objectives.
+F.02.b;Similarity Group;Operations and Systems Analysis Skills;
+F.02.b.01;Descriptor;Evaluation;The capability to identify and systematically apply criteria, indicators and measurement tools at defined intervals to assess the effectiveness, value, impact or performance of products, services, processes, programs or policies.
+F.02.b.02;Descriptor;Requirements Analysis;The capability to analyze needs and product requirements to create a design. 
+F.02.b.03;Descriptor;Systems Analysis;The capability to determine how a system should work and how changes in conditions, operations and the environment will affect outcomes.
+F.02.b.04;Descriptor;Researching and Investigating;The capability to conduct studies and to examine information and data to increase knowledge, understand facts, find causes, test hypotheses and draw conclusions or make recommendations.
+F.02.b.05;Descriptor;Problem Solving;The capability to analyze information related to problems to develop feasible solutions or options to eliminate or mitigate the problem.
+F.03;Sub-Category;Technical Skills;Developed capabilities that relate to the practical or mechanical side of an activity, the application of a set of technical processes and required know-how.
+F.03.a;Similarity Group;Technical Skills;
+F.03.a.01;Descriptor;Equipment and Tool Selection;The capability to choose between two or more types of tools, equipment or machinery to perform a job.
+F.03.a.02;Descriptor;Preventative Maintenance;The capability to perform maintenance on equipment, devices, building or machinery to keep them in functional and to prevent damage or failures.
+F.03.a.03;Descriptor;Setting Up;The capability to set up, adjust, install and assemble equipment, machines, parts or to prepare them for their functioning and use.
+F.03.a.04;Descriptor;Operation and Control;The capability to maneuver and control operations of equipment, machines, vehicles or systems.
+F.03.a.05;Descriptor;Operation Monitoring of Machinery and Equipment;The capability to watch gauges, dials, digital displays or other indicators to ensure a machine or piece of equipment is working according to specifications.
+F.03.a.06;Descriptor;Troubleshooting;The capability to determine causes of operating errors in equipment, machinery or technological systems and decide how to resolve the issues.
+F.03.a.07;Descriptor;Repairing;The capability to replace, restore or adjust defective or deficient components in equipment, machines and technical systems and test for function, appearance, operation and safety.
+F.03.a.08;Descriptor;Quality Control Testing;The capability to conduct tests or inspections of prototypes, products, services or processes to ensure their quality.
+F.03.a.09;Descriptor;Product Design;The capacity to design and develop layouts for the construction of objects, equipment, machinery, structures or engineering systems (excluding software and hardware).
+F.03.a.10;Descriptor;Digital Systems Production;The capability to design, develop, adapt, or integrate hardware, software, applications, electronic devices or digital technologies, while ensuring compliance with cybersecurity standards and best practices.
+F.04;Sub-Category;Resource Management Skills;Developed capabilities to plan, organize, monitor or control the resources to achieve goals.
+F.04.a;Similarity Group;Resource Management Skills;
+F.04.a.01;Descriptor;Management of Financial Resources;The capability to plan, organize, direct, control or monitor financial resources and activities and account for the use of theses resources to ensure their utilization are conform to the objectives and purposes.
+F.04.a.02;Descriptor;Management of Material Resources;The capability to plan and manage the purchase, inventory, warehousing, transportation or distribution of products or materials and their use.
+F.04.a.03;Descriptor;Management of Personnel Resources;The capability to recruit, train, motivate, develop and direct employees, identify the best person for the tasks to be performed and establish their work objectives in relation to the objectives of the organization.
+F.04.b;Similarity Group;Planning Skills;
+F.04.b.01;Descriptor;Operational Planning;The capability to determine phases and steps, define activities and tasks and establish schedules to complete objectives on time and within budget.
+F.04.b.02;Descriptor;Projecting Outcomes;The capability to estimate, predict and forecast results and outcomes of an action or a series of actions based on data and indicators.
+F.04.b.03;Descriptor;Risk Management;The capability to identify and assess risks and determine procedures to be followed to reduce or avoid their impact.
+F.04.b.04;Descriptor;Strategic Planning;The capability to set goals according to the organization's needs and to develop strategies and action plans to achieve them.
+F.04.b.05;Descriptor;Time Management;The capability to manage one's own time and the time of others.
+F.04.c;Similarity Group;Monitoring;
+F.04.c.01;Descriptor;Monitoring;The capability to regularly observe and collect data or information to track the status of projects, programs, products, policies, people conditions, equipment, events or environments to identify emerging issues, deviations or risks that require timely attention or corrective action.
+F.04.d;Similarity Group;Change Management and Crisis Management Skills;
+F.04.d.01;Descriptor;Change Management;The capability to plan and implement strategies for effecting change, communicate the effects of change and provide guidance and support to those affected by change.
+F.04.d.02;Descriptor;Crisis Management;The capability to establish a response plan for emergencies, to apply it and adapt it to situations while limiting the impact on people, customers, employees and the organisation.
+F.05;Sub-Category;Interpersonal Skills;Developed capabilities used to work with people to achieve goals.
+F.05.a;Similarity Group;Interpersonal Skills;
+F.05.a.01;Descriptor;Coordinating;The capability to organize people or groups by adjusting activities in relation to others' activities so that they work effectively as a whole.
+F.05.a.02;Descriptor;Instructing;The capability to teach others knowledge or how to do something.
+F.05.a.03;Descriptor;Negotiating;The capability to participate in or facilitate communication between parties in order to resolve differences and reach a mutually acceptable or viable agreement.
+F.05.a.04;Descriptor;Persuading;The capability to convince others to change their minds, beliefs, intentions or behaviours.
+F.05.a.05;Descriptor;Social Perceptiveness;The capability to be aware of others' reactions, unspoken communication, body language cues and feelings and discern the reasons behind their behaviours.
+F.05.a.06;Descriptor;Cross-Cultural Sensitivity;The capability to communicate, interact and work appropriately with people from different cultural backgrounds, in recognition that diversity is being both between and within cultural groups and can be expressed in customs, values and ways of thinking and acting.
+F.05.a.07;Descriptor;Managing Conversation;The capability to lead and facilitate dialogue between two or more people.
+G;Category;Knowledge;Organized sets of principles and practices used for the execution of tasks and activities within a particular domain.
+G.01;Sub-Category;Administration and Management;Organized set of principles and practices relating to administration and management domains. 
+G.01.a;Similarity Group;Administration and Management;
+G.01.a.01;Descriptor;Accounting;Knowledge of concepts, principles, methods and practices for budgeting, storing, tracking, controlling, analyzing and reporting on financial transactions.
+G.01.a.02;Descriptor;Business Management;Knowledge of concepts, principles and practices of managing business operations such as strategic planning, resource allocation, production management and coordination of people and activities.
+G.01.a.03;Descriptor;Clerical;Knowledge of administrative concepts, principles, methods, procedures and practices for the functioning of the daily office operations.
+G.01.a.04;Descriptor;Finance;Knowledge of concepts, principles, methods and practices related to financial operations, systems and institutions.
+G.01.a.05;Descriptor;Human Resources and Labour Relations;Knowledge of concepts, principles, procedures and practices for personnel recruitment, selection, hiring, training policies, deploying, compensation and benefits, labour relations and negotiation and personnel information systems.
+G.01.a.06;Descriptor;Sales and Marketing;Knowledge of concepts, principles, techniques, practices and tools for determining consumer behaviour and needs, developing business opportunities and promoting and selling products and services.
+G.01.a.07;Descriptor;Client Service;Knowledge of concepts, principles and practices of providing services and support to satisfy clients' requirements and needs.
+G.02;Sub-Category;Communication;Organized set of principles and practices relating to communication domains.
+G.02.a;Similarity Group;Communication;
+G.02.a.01;Descriptor;Communications and Media;Knowledge of concepts, principles, methods and techniques for the creation, production, distribution or dissemination of written, oral, audiovisual or visual communications to a targeted audience.
+G.03;Sub-Category;Education;Organized set of principles and practices relating to education domains.
+G.03.a;Similarity Group;Education;
+G.03.a.01;Descriptor;Teaching;Knowledge of the concepts, principles, methods and practices of instructing individuals and groups, designing educational curriculum and measuring learning outcome.
+G.03.a.02;Descriptor;Training, Mentoring and Coaching;Knowledge of concepts and principles of learning and readiness to learn, and of methods for guiding, advising, directing and supporting career or personal goals for the individuals or groups to gain experience and improve competencies.
+G.04;Sub-Category;Health and Wellbeing;Organized set of principles and practices relating to health and wellbeing domains.
+G.04.a;Similarity Group;Health and Wellbeing;
+G.04.a.01;Descriptor;Hospitality;Knowledge of concepts, principles, techniques and tools or equipment for managing facilities and providing food, accommodation or tourism services with the focus on client experience.
+G.04.a.02;Descriptor;Mental Health;Knowledge of concepts, principles, methods and procedures for assessment, diagnosis, treatment, rehabilitation, counseling or guidance to address neurological and cognitive processes, behaviours and disorders or to maintain balanced mental health and well-being.
+G.04.a.03;Descriptor;Personal Services;Knowledge of concepts, principles, techniques and tools for providing services of personal nature related to body care, childcare and other in-home services.
+G.04.a.04;Descriptor;Physical Health;Knowledge of concepts and principles of the human anatomy, organic systems, biomedical sciences, genetics, and of procedures, techniques and tools needed to diagnose and treat injuries and diseases, to restore and maintain physical health by the prevention and treatment.
+G.04.a.05;Descriptor;Recreation, Leisure and Fitness;Knowledge of concepts, principles, practices, and equipment for physical fitness and for managing and providing recreational, leisure and fitness program or services.
+G.04.a.06;Descriptor;Veterinarian and Animal Care;Knowledge of concepts, principles, practices, techniques and tools for the prevention, care, diagnostics, and treatment of diseases, disorders and injuries, and the maintenance of wellbeing of animals.
+G.05;Sub-Category;Law, Government and Safety;Organized set of principles and practices relating to law, government and safety.
+G.05.a;Similarity Group;Law, Government and Safety;
+G.05.a.01;Descriptor;Military;Knowledge of organisations, structures, practices and strategies related to defence, security, intelligence and peacekeeping missions.
+G.05.a.02;Descriptor;Law;Knowledge of concepts, principles, operations and processes of the municipal, provincial-territorial, federal or international legal systems for the establishment, implementation and application of laws, legal codes and documents and court procedures.
+G.05.a.03;Descriptor;Public Affairs and Government Relations;Knowledge of concepts, principles, processes and functioning of governments and political systems for the establishment and implementation of policies, regulations and legislations.
+G.05.a.04;Descriptor;Public Safety and Security;Knowledge of concepts, principles, regulations, procedures and practices related to public safety and security operations and systems for the protection of people, data, goods, properties and infrastructure.
+G.06;Sub-Category;Logistics, Design and Evaluation;Organized set of principles and practices relating to logistics, design and evaluation domains.
+G.06.a;Similarity Group;Logistics, Design and Evaluation;
+G.06.a.01;Descriptor;Manufacturing, Processing and Production;Knowledge of concepts, principles, methods and techniques of production and transformation, including manual and mechanical processes.
+G.06.a.02;Descriptor;Logistics;Knowledge of concepts, principles, infrastructures and processes for planning, organizing and coordinating activities to ensure efficient management of resources and services as well as optimal movement of people, animals and goods.
+G.06.a.03;Descriptor;Performance Measurement;Knowledge of concepts, principles, methods, practices and strategies of monitoring the development, delivery and quality of products, programs or services.
+G.06.a.04;Descriptor;Technical Design;Knowledge of technical design concepts, principles, methods, techniques and tools involved in the creation and production of technical plans, blueprints, drawings or models.
+G.07;Sub-Category;Natural Resources;Organized set of principles and practices relating to natural resources domains.
+G.07.a;Similarity Group;Natural Resources;
+G.07.a.01;Descriptor;Agronomy and horticulture ;Knowledge of concepts, principles, techniques, materials and equipment for planting, growing, harvesting, storing or preserving plants and plant products.
+G.07.a.02;Descriptor;Forestry;Knowledge of concepts, principles, techniques, materials and equipment for sourcing, processing, managing, monitoring, preserving and conserving forest resources.
+G.07.a.03;Descriptor;Geological Resources;Knowledge of concepts, principles, techniques, materials and equipment for sourcing, processing, managing, monitoring, conserving or preserving natural resources such as minerals, metals, oil, natural gas, coal and other geological materials.
+G.07.a.04;Descriptor;Livestock, Farm Animals and  Wildlife;Knowledge of the concepts, principles, techniques, materials and equipment used in sourcing, raising, fishing, hunting, managing or monitoring livestock, farm animals and wildlife to support sustainable animal resource and ensure the preservation of biodiversity.
+G.07.a.05;Descriptor;Water Resources;Knowledge of concepts, principles, techniques, materials and equipment for sourcing, processing, managing, monitoring or preserving water resources such as rivers, lakes, oceans and underground aquifers.
+G.08;Sub-Category;Physical Sciences;Organized set of principles and practices relating to physical sciences domains.
+G.08.a;Similarity Group;Physical Sciences;
+G.08.a.01;Descriptor;Biology;Knowledge of concepts and principles of living organisms including their structure, function, growth, origin, evolution, distribution and classification and their interdependencies and interactions with each other and the environment, as well as safe and ethical handling methods and techniques.
+G.08.a.02;Descriptor;Chemistry;Knowledge of the composition, structure and properties of chemical substances including their interactions, transformations and use, as well as the production techniques, risk factors and disposal methods.
+G.08.a.03;Descriptor;Geoscience;Knowledge of concepts, principles and methods for analyzing the Earth's materials, structures and natural systems to understand their composition, the processes and their evolution over time, as well as interactions between the land, oceans and atmosphere.
+G.08.a.05;Descriptor;Physics;Knowledge of concepts, principles, fundamental properties and laws that govern space, time, energy and matter and of equipment and methods required to study and apply the interactions of objects including atoms, particles and celestial bodies.
+G.09;Sub-Category;Socioeconomic Systems;Organized set of principles and practices relating to socioeconomics domains.
+G.09.a;Similarity Group;Socioeconomic Systems;
+G.09.a.01;Descriptor;Arts;Knowledge of concepts, principles and techniques of artistic expression required to create, compose or produce visual, applied, performing or literary art.
+G.09.a.02;Descriptor;Economics;Knowledge of concepts and principles of the production, distribution and consumption of goods and services and the methods of analysis including simulation and forecasting techniques.
+G.09.a.03;Descriptor;Humanities;Knowledge of concepts, principles and methods for understanding human social interaction and structures, and events throughout time and their effects on civilizations, cultures and environment.
+G.09.a.04;Descriptor;Library, Conservation and Heritage;Knowledge of concepts, principles, techniques and tools in the classification, storage, retrieval, display and management of documentation and records in various media, museum artifacts or works of fine art.
+G.09.a.05;Descriptor;Theology and Philosophy;Knowledge of concepts and principles of religious and philosophical systems, and of fundamental questioning of existence, reason, values, ethics, ways of thinking, customs, practices and their impact on individuals, human culture and society.
+G.10;Sub-Category;Technology, Electrical, Material and Mechanical;Organized set of principles and practices relating to technology, electrical, material and mechanical.
+G.10.a;Similarity Group;The Technology, Electrical, Material and Mechanical;
+G.10.a.01;Descriptor;Building and Construction;Knowledge of concepts, principles, methods, materials and tools involved in the construction, maintenance and repair of houses, buildings or infrastructures such as highways and roads. 
+G.10.a.02;Descriptor;Computer, Technology and Information Systems;Knowledge of concepts, principles, processes, techniques and tools for technological and digital systems, devices and products, such as hardware or software development, assembling, programming, use, troubleshooting or maintenance.
+G.10.a.03;Descriptor;Electrical and Electronics;Knowledge of concepts, principles, techniques and tools applied for the development, use, repair and maintenance of electronic and electrical products and devices.
+G.10.a.04;Descriptor;Mechanics and Machinery;Knowledge of parts, standards and functioning of machines, vehicles, equipment or tools and techniques used for their repair or maintenance.
+G.10.a.05;Descriptor;Telecommunications;Knowledge of concepts, principles, processes, techniques and tools of the transmission of information via wire, radio, optical fiber or other electromagnetic system for the use, repair, maintenance, control or operation of telecommunications systems.
+G.10.a.06;Descriptor;Vehicle, Machinery and Equipment Operation;Knowledge of the parts and functioning of vehicles, machinery or equipment and of techniques and practices for their safe and efficient use.
+G.11;Sub-Category;Foundational Knowledge;Organized set of principles and practices that are fundamental to the acquisition of new knowledge.
+G.11.a;Similarity Group;Foundational Knowledge;
+G.11.a.01;Descriptor;Languages;Knowledge of vocabulary, grammar structure and rules, spelling and pronunciation of words in one or both official languages, Indigenous languages and non-official languages.
+G.11.a.02;Descriptor;Mathematics;Knowledge of concepts, principles, methods and applications of arithmetic, algebra, geometry, trigonometry, differential and integral calculus, probability and statistics.
+J;Category;Work Context;Physical, environmental and social factors that influence the nature of work.
+J.01;Sub-Category;Structural Job Characteristics;The components that define the structural aspect of the job.
+J.01.a;Similarity Group;Criticality of Position;
+J.01.a.01;Descriptor;Consequence of Error;The impact on outcomes of a mistake, which was not readily correctable, made by the worker.
+J.01.a.02;Descriptor;Freedom to Make Decisions;The job allows the worker to make decisions without supervision.
+J.01.a.03;Descriptor;Frequency of Decision Making;The job requires the worker to make decisions that affect other people, the financial resources and/or the image and reputation of the organization.
+J.01.a.04;Descriptor;Impact of Decisions;The impact on the organization or colleagues of decisions made by the worker. A decision is understood as a conclusion or resolution reached after consideration.
+J.01.b;Similarity Group;Various Challenge Types;
+J.01.b.01;Descriptor;Automation;The job requires operation, manipulation or handling of automated systems, processes or machines.
+J.01.b.02;Descriptor;Precision;The job requires the worker to be exact or accurate.
+J.01.b.03;Descriptor;Structured versus Unstructured Work;The extent to which the job is structured for the worker, rather than allowing the worker to determine tasks, priorities and goals.
+J.01.b.04;Descriptor;Tasks Repetition;The job requires repetitive tasks in the performance of work.
+J.01.c;Similarity Group;Pace and Scheduling;
+J.01.c.01;Descriptor;Pace Determined by Speed of Equipment;The job requires maintaining pace with the speed of the equipment, machines or computers. This does not refer to always being occupied while in the position.
+J.01.c.02;Descriptor;Time Pressure;The job requires working under pressure, meeting strict deadlines or dealing with competing priorities.
+J.01.c.03;Descriptor;Type of Work Schedules;The type of schedule usually required for the job.
+J.01.c.04;Descriptor;Work Week Duration;Number of hours typically worked over a period of 7 days.
+J.01.d;Similarity Group;Level of Competition;
+J.01.d.01;Descriptor;Competition;The job requires competing with coworkers or being aware of competitive pressures between them or among businesses within the same industry.
+J.01.e;Similarity Group;Working with Computers;
+J.01.e.01;Descriptor;Working with Computers;The job requires using computers, computer systems or equipment with digital interfaces to perform work activities.
+J.02;Sub-Category;Physical Work Environment;The physical surroundings in which the worker performs their job.
+J.02.a;Similarity Group;Exposure to Job Hazards;
+J.02.a.01;Descriptor;Dangerous Locations;The job requires working in locations that are inherently treacherous and are potential sources of injury. Such work locations include among others, construction sites, underground sites, erected support structures and marine environments.
+J.02.a.02;Descriptor;Fire, Steam, Hot Surfaces;The job requires being exposed to fire (rather than being exposed to flammable substances), to emissions of steam or to intensely hot surfaces that are potential sources of injury.
+J.02.a.03;Descriptor;Flying Particles, Falling Objects;The job requires being exposed to flying particles and falling objects or materials in the work environment that pose the risk of bodily injury. Flying particles refer to particles such as wood chips, metal particles and rock chips generated by the handling, crushing, grinding, rapid impact or explosion of materials.
+J.02.a.04;Descriptor;Hazardous Conditions;The job requires being exposed to conditions that involves risks of accidents such as high voltage electricity, flammable material or explosives.
+J.02.a.05;Descriptor;Hazardous Equipment, Machinery, Tools;The job requires working near or with equipment, instruments, machinery or power hand tools that may be a potential source of accident or injury.
+J.02.a.06;Descriptor;High Places;The job requires being exposed to elevated places such as poles, scaffolding, catwalks or ladders longer than two meters in length.
+J.02.a.07;Descriptor;Radiation;The job requires being exposed to ionizing radiation such as X-rays and radioactive substances or non-ionizing radiation such as radio frequencies and infrared, ultraviolet or visible light that may affect health adversely.
+J.02.a.08;Descriptor;Cramped Work Space, Awkward Positions;The job requires working in confined space that requires getting into uncomfortable positions.
+J.02.a.09;Descriptor;Skin Injury;The job requires being exposed to the risks of minor burns, cuts, bites or stings.
+J.02.b;Similarity Group;Work Setting;
+J.02.b.01;Descriptor;In an Enclosed Vehicle or Equipment;The job requires working in a closed vehicle or equipment, such as a car, truck or heavy equipment.
+J.02.b.02;Descriptor;In an Open Vehicle or Equipment;The job requires working in an open vehicle or equipment, such as a tractor.
+J.02.b.03;Descriptor;Indoors, Environmentally Controlled;The job requires working inside a building with controlled temperature and humidity conditions.
+J.02.b.04;Descriptor;Indoors, Not Environmentally Controlled;The job requires working inside a building where the temperature and humidity are not controlled, such as a warehouse without heat.
+J.02.b.05;Descriptor;Outside, Exposed to Weather;The job requires working outdoors and being subject to variations in weather conditions and seasonal weather patterns.
+J.02.b.06;Descriptor;Outside, Under Cover;The job requires working outdoors, protected from variations in weather conditions and seasonal weather patterns by a covered space, such as a structure with a roof but no walls.
+J.02.b.07;Descriptor;Physical Proximity;The job requires performing tasks while being physically close to other people.
+J.02.c;Similarity Group;Environmental Conditions;
+J.02.c.01;Descriptor;Biological Agents;The job requires being exposed to bacteria, viruses and fungi that may cause illness due to direct or indirect contact.
+J.02.c.02;Descriptor;Dangerous Chemical Substances;The job requires being exposed to contaminants, such as pollutants, gases or dust, through inhalation, ingestion or contact with skin.
+J.02.c.03;Descriptor;Vibration;The job requires being exposed to oscillating or quivering motion of the body while performing tasks.
+J.02.c.04;Descriptor;Sound and Noise;The job requires being exposed to sound and noise levels that are distracting or uncomfortable, regardless of the equipment used by the workers.
+J.02.c.05;Descriptor;Extremely Bright or Inadequate Lighting;The job requires working in extremely bright or inadequate lighting conditions.
+J.02.c.06;Descriptor;Extreme Temperatures;The job requires being exposed to very hot (above 32.2 Â°C) or very cold (below 0 Â°C) temperatures.
+J.02.c.07;Descriptor;Odours;The job requires being exposed to noxious, intense or prolonged odours.
+J.02.d;Similarity Group;Safety Equipment Required;
+J.02.d.01;Descriptor;Specialized Safety Equipment;The job requires wearing specialized protective or safety equipment such as breathing apparatus, safety harness, full protection suits or radiation protection.
+J.02.d.02;Descriptor;Standard Safety Equipment;The job requires wearing common protective or safety equipment such as safety shoes, glasses, gloves, hard hats or life jackets.
+J.03;Sub-Category;Physical Demands;The physical efforts or movements required by the occupation to perform the work.
+J.03.a;Similarity Group;Body Positioning;
+J.03.a.01;Descriptor;Bending or Twisting the Body;The job requires leaning forwards or backwards or moving the body torsionally.
+J.03.a.02;Descriptor;Climbing;The job requires going up and down ladders, scaffolds or poles.
+J.03.a.03;Descriptor;Crawling;The job requires moving in a prone position, with the body resting on or close to the ground, on the hands and knees.
+J.03.a.04;Descriptor;Crouching;The job requires powering the body stance by bending the legs.
+J.03.a.05;Descriptor;Handling Material Manually;The job requires using your hands to handle, control or feel objects, tools or controls (excluding mouse and keyboard).
+J.03.a.06;Descriptor;Keeping or Regaining Balance;The job requires maintaining your body in a steady position or recovering balance.
+J.03.a.07;Descriptor;Kneeling;The job requires positioning the body so that one or both knees rest on the floor.
+J.03.a.08;Descriptor;Making Repetitive Motions;The job requires repeating the same movement.
+J.03.a.09;Descriptor;Sitting;The job requires being in a position where the body weight is supported by the buttocks.
+J.03.a.10;Descriptor;Standing;The job requires maintaining an upright position supported by oneâ€™s feet.
+J.03.a.11;Descriptor;Walking and Running;The job requires lifting and setting down each foot in turn in order to move forward at a certain pace.
+J.03.a.12;Descriptor;Reaching;The job requires extending one or both arms to grasp or touch a person or an object.
+J.03.a.13;Descriptor;Stooping;The job requires standing or walking with an inclination of the head, body or shoulders.
+J.03.a.14;Descriptor;Keyboarding;The job requires using a panel of keys for typing on an electronic device or computer.
+J.03.b;Similarity Group;Body Exertion;
+J.03.b.01;Descriptor;Carrying;The job requires holding things while moving.
+J.03.b.02;Descriptor;Lifting;The job requires raising an object using the hands and arms.
+J.03.b.03;Descriptor;Pulling;The job requires taking hold of an object to move it toward oneself.
+J.03.b.04;Descriptor;Pushing;The job requires exerting force in order to move an object forward.
+J.03.c;Similarity Group;Speaking and Seeing;
+J.03.c.01;Descriptor;Speaking;The job requires conveying information in spoken language.
+J.03.c.02;Descriptor;Visual Acuity;The job requires distinguishing fine details in things or in the environment.
+J.04;Sub-Category;Interpersonal Relations;The human interactions required to perform the job.
+J.04.a;Similarity Group;Job Interactions;
+J.04.a.01;Descriptor;Conflict Situations;The job requires being confronted with disputes or disagreements with or between customers, employees or other parties.
+J.04.a.02;Descriptor;Contact with Others;The job requires being in contact with others, face-to-face, by telephone or otherwise, to perform tasks.
+J.04.a.03;Descriptor;Coordinating or Leading Others;The job requires providing guidance or direction to coworkers or subordinates in accomplishing work activities.
+J.04.a.04;Descriptor;Deal With External Customers;The job requires working with members outside of the organization, including clients and the public.
+J.04.a.05;Descriptor;Work with Group or Team;The job requires working with others in a group or team.
+J.04.a.06;Descriptor;Deal with Physically Aggressive People;The job requires dealing with individuals that have violent behaviour.
+J.04.a.07;Descriptor;Dealing With Unpleasant or Angry People;The job requires dealing with disagreeable, furious or discourteous individuals.
+J.04.b;Similarity Group;Communication Methods;
+J.04.b.01;Descriptor;Electronic Mail;The job requires the use of an electronic communication device to send and receive messages.
+J.04.b.02;Descriptor;Face-to-Face Discussions;The job requires having in-person discussions with individuals or teams.
+J.04.b.03;Descriptor;Written Communications;The job requires producing administrative or creative written communications.
+J.04.b.04;Descriptor;Public Speaking;The job requires delivering speeches to an audience (a minimum of five persons).
+J.04.b.05;Descriptor;Telephone;The job requires communicating with others by using a telephone or hand-held radios.
+J.04.b.06;Descriptor;Videoconference;The job requires using videoconference software to participate in meetings and conversations.
+J.04.c;Similarity Group;Interpersonal Responsibilities;
+J.04.c.01;Descriptor;Responsibility for Outcomes and Results of Other Workers;The job requires assuming the responsibility for the end product and effects of other workersâ€™ work.
+J.04.c.02;Descriptor;Responsibility for Health and Safety of Others;The job requires ensuring the health, safety and security of others.
+K;Category;Work Activities;General types of work-related activities.
+K.01;Sub-Category;Information-Oriented Activities;Information and data management and processing activities that are necessary to meet the requirements of the job.
+K.01.a;Similarity Group;Looking for and Receiving Job-Related Information;
+K.01.a.01;Descriptor;Getting Information;Observing, receiving or obtaining information from all relevant sources.
+K.01.a.02;Descriptor;Monitoring Processes, Materials or Systems;Tracking and reviewing information regularly from processes, materials, equipment, events, environments, people, conditions, projects, products, programs or policies to assess their status, monitor progress or identify potential issues.
+K.01.a.06;Descriptor;Analyzing Data or Information;Identifying the underlying principles, reasons or facts of information by breaking down information or data into separate parts.
+K.01.a.07;Descriptor;Developing Technical Instructions;Providing detailed instructions, drawings, specifications or other documentation to inform how devices, parts, equipment or structures are to be fabricated, constructed, assembled, modified, maintained or used.
+K.01.a.08;Descriptor;Documenting and Recording Information;Entering, transcribing, recording, storing, or maintaining information in written, electronic or magnetic form.
+K.01.a.09;Descriptor;Performing Administrative Activities;Performing daily administrative activities that support the efficient operation of an office such as answering, screening and dispatching calls, photocopying, scanning, faxing documents, checking, receiving and sending mail and emails, and obtaining approvals and signatures.
+K.01.b;Similarity Group;Identify and Evaluating Job-Relevant Information;
+K.01.b.01;Descriptor;Identifying Objects, Actions and Events;Identifying information by categorizing, recognizing differences or similarities, and detecting changes in facts, conditions or situations.
+K.01.b.02;Descriptor;Estimating Quantifiable Characteristics;Estimating cost, resources or materials needed to perform a work activity.
+K.01.b.03;Descriptor;Inspecting Equipment, Structures or Material;Observing or testing the condition of equipment, structures or materials to identify any defects, faults, signs of damage, wear and tear or non-compliance and to ensure operational efficiency.
+K.01.b.04;Descriptor;Processing Information;Compiling, classifying, tabulating, coding or verifying information or data.
+K.01.b.05;Descriptor;Writing or Composing;Write texts or content for educational, operational, legislative, scientific, public policy, entertainment, artistic or promotional purposes, including musical composition.
+K.02;Sub-Category;Physically-Oriented Activities;The physical activities that are performed, equipment and vehicles that are operated or any other technical activities accomplished to meet the requirements of the job.
+K.02.a;Similarity Group;Performing Physical and Manual Work Activities;
+K.02.a.01;Descriptor;Handling and Manipulating Objects;Using hands, hand-held or power tools to install, fabricate, maintain, clean, repair, place, move or manipulate objects or materials.
+K.02.a.02;Descriptor;Operating Vehicles, Mechanized Devices or Equipment;Manoeuvring, navigating or driving vehicles or mechanized equipment, such as forklifts, passenger vehicles, aircraft or watercraft.
+K.02.a.04;Descriptor;Controlling Machines and Processes;Using mechanisms or physical activity to control the operation of machines (excluding computers or vehicles) or processes.
+K.02.a.09;Descriptor;Performing Physical Activities;Performing activities requiring physical effort and the use of arms and legs or movement of the whole body.
+K.02.b;Similarity Group;Performing Complex and Technical Activities;
+K.02.b.03;Descriptor;Electronic Maintenance;Servicing, repairing, calibrating, regulating, fine-tuning or testing machines, devices and equipment that operate on electrical or electronic principles.
+K.02.b.05;Descriptor;Mechanical Maintenance;Servicing, repairing, adjusting or testing machines, devices, moving parts and equipment that operate on mechanical principles.
+K.03;Sub-Category;Mental Process-Oriented Activities;The processing, planning, problem solving and decision-making activities that are necessary for the overall completion of a job.
+K.03.a;Similarity Group;Information and Data Processing;
+K.03.a.01;Descriptor;Judging Quality;Determining the value, merit, importance or quality of materials, products, services or individuals.
+K.03.a.02;Descriptor;Evaluating ;Assessing products, services, processes, programs or policies systemically to determine their effectiveness, value, impact, performance or compliance with established objectives, standards or regulations.
+K.03.a.03;Descriptor;Calculating;Performing mathematical operations by applying rules corresponding to assigned operational tasks.
+K.03.b;Similarity Group;Reasoning and Decision Making;
+K.03.b.01;Descriptor;Making Decisions;Choosing the best options to be implemented based on the analysis of information and the evaluation of potential outcomes.
+K.03.b.02;Descriptor;Thinking Creatively;Generating innovative or creative ideas to develop or design new application, products, including artistic contributions.
+K.03.b.03;Descriptor;"Setting Objectives and Formulating Strategies	";Establishing short, medium, or long-term vision, goals or objectives and determining overarching strategies to achieve them.
+K.03.b.04;Descriptor;Updating and Applying Knowledge;Acquiring and maintaining job-relevant theoretical and technical knowledge and applying it with discernment based on context.
+K.03.b.05;Descriptor;Examining and Diagnosing;Assessing conditions through examination or testing and make a diagnosis for the appropriate treatments or intervention to be developed when relevant.
+K.03.b.06;Descriptor;Managing Resources;Determining, acquiring, monitoring and controlling any kind of resources and overseeing the spending of money.
+K.03.b.07;Descriptor;Planning and Organizing;Developing specific goals and plans to prioritize and organize tasks to get the work done.
+K.03.b.08;Descriptor;Scheduling Work and Activities;Scheduling events, programs and activities, as well as the work of others.
+K.04;Sub-Category;People-Oriented Activities;The activities where social interaction with others is necessary to meet the requirements of the job.
+K.04.a;Similarity Group;Communicating and Interacting;
+K.04.a.01;Descriptor;Communicating with Coworkers;Sharing or providing information or advice to management, supervisors, coworkers and subordinates on work related topics.
+K.04.a.02;Descriptor;Coordinating the Work and Activities of Others;Getting members of a group to work together to accomplish tasks.
+K.04.a.04;Descriptor;Interpreting the Meaning of Information for Others;Translating or explaining what information means and how it can be used.
+K.04.a.05;Descriptor;Protecting and Enforcing Rules;Responding to public safety, security and cybersecurity needs and enforcing compliance with rules, standards, regulations and laws.
+K.04.a.06;Descriptor;Communicating with Persons Outside Organization;Sharing or exchanging information with people outside the organization, representing the organization to customers, the public, government or other external sources.
+K.04.a.07;Descriptor;Establishing and Maintaining Interpersonal Relationships;Developing respectful, constructive and cooperative working relationships with others and maintaining them over time.
+K.04.a.08;Descriptor;Selling or Influencing Others;Convincing others to buy goods or services, or to change their minds or actions.
+K.04.a.09;Descriptor;Performing for or Working Directly with the Public;Working or interacting directly with the public or performing for public audiences.
+K.04.a.12;Descriptor;Assisting and Caring for Others;Providing personal assistance, medical attention, emotional support or other care to customers, clients or patients.
+K.04.b;Similarity Group;Coordinating, Developing, Managing and Advising;
+K.04.b.01;Descriptor;Coaching and Developing Others;Identifying the developmental needs of others and coaching, mentoring or otherwise helping others to improve their knowledge or skills.
+K.04.b.02;Descriptor;Providing Consultation and Advice;Providing recommendations, guidance or advice within their area of expertise to management, groups, stakeholders, businesses, professionals and individuals.
+K.04.b.03;Descriptor;Resolving Conflicts and Negotiating with Others;Handling complaints, settling disputes and resolving grievances and conflicts, or otherwise negotiating with others.
+K.04.b.04;Descriptor;Supervising Subordinates;Providing guidance and direction to subordinates, including the establishment of work outcomes for performance monitoring.
+K.04.b.05;Descriptor;Team Building;Encouraging and building mutual trust, respect and cooperation among team members.
+K.04.b.06;Descriptor;Training and Teaching;Identifying the educational needs of others, developing formal educational or training programs or classes and teaching or instructing others.
+K.04.c;Similarity Group;Performing Administrative Activities;
+K.04.c.01;Descriptor;Staffing;Recruiting, interviewing, selecting and hiring personnel, promoting and retaining employees, and ensuring that human resources are assigned to the right roles with the required competencies.
