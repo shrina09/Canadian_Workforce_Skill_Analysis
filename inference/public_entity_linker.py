@@ -1,10 +1,9 @@
+# Public entity linker that extracts skill-like phrases from text and links them to canonical skills via embedding similarity
 from __future__ import annotations
-
 import argparse
 import re
 from dataclasses import dataclass
 from typing import Dict, List, Optional, Set
-
 import pandas as pd
 from sentence_transformers import SentenceTransformer, util
 
